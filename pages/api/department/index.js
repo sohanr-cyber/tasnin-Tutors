@@ -32,7 +32,7 @@ handler.get(async (req, res) => {
             .skip(skip)
             .limit(PAGE_SIZE)
 
-        await db.disconnect()
+        // await db.disconnect()
         res.json({ page, departments, totalPages })
     } catch (error) {
         console.log({ error })
@@ -90,7 +90,7 @@ handler.put(async (req, res) => {
         );
 
         // Disconnect from the database
-        await db.disconnect();
+        // await db.disconnect();
 
         // Return the created departments with a 201 status
         res.status(201).json(departments);

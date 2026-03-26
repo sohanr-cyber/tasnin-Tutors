@@ -50,7 +50,7 @@ handler.get(async (req, res) => {
       })
     )
 
-    await db.disconnect()
+    // await db.disconnect()
     res.json(tree)
   } catch (error) {
     console.log({ error })

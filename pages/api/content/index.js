@@ -31,7 +31,7 @@ handler.get(async (req, res) => {
       .skip(skip)
       .limit(PAGE_SIZE)
 
-    await db.disconnect()
+    // await db.disconnect()
     res.json({ page, contents, totalPages })
   } catch (error) {
     console.log({ error })
@@ -48,7 +48,7 @@ handler.post(async (req, res) => {
     const content = await Content.create({
       ...req.body
     })
-    await db.disconnect()
+    // await db.disconnect()
     res.status(201).json(content)
   } catch (error) {
     console.error(error)

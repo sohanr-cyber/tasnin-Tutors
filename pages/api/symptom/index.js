@@ -32,7 +32,7 @@ handler.get(async (req, res) => {
             .skip(skip)
             .limit(PAGE_SIZE)
 
-        await db.disconnect()
+        // await db.disconnect()
         res.json({ page, symptoms, totalPages })
     } catch (error) {
         console.log({ error })
