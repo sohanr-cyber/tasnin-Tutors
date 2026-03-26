@@ -170,7 +170,7 @@ export async function getStaticProps() {
         symptoms: [],
         departments: []
       },
-      revalidate: 10 // Revalidate at most every 10 seconds
+      revalidate: 100 // Revalidate at most every 10 seconds
     }
   }
 }
