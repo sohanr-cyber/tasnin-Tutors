@@ -30,19 +30,26 @@
     justify-content: center;
     flex-direction: column;
     /* gap: 15px; */
-    color: white;
+    color: black;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: var(--themeTransparent);
+    background: linear-gradient(45deg, rgb(95, 163, 252), rgb(255, 255, 255, 0.1), rgba(0, 102, 255,0.0));
     padding: 0 25px;
     font-weight: bold;
 
-
 }
 
+
+.slide .surface .title {
+    font-size: 160%;
+}
+
+.slide .surface .title .icon {
+    color:var(--logo)
+}
 .slide {
     text-shadow: var(--textShadow);
 

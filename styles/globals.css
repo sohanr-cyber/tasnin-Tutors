@@ -3,10 +3,11 @@
 :root {
   --font: 'Ubuntu', sans-serif;
   --percent: 10%;
-  --box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) --background: linear-gradient(rgb(197, 228, 255), white, rgb(170, 214, 253), white, rgb(174, 216, 253));
-  --nav: rgb(221, 235, 255);
-  --cardBg: rgba(151, 226, 255, 0.5);
-  --buttonBg: linear-gradient(45deg, #04afff, #52c3f8);
+  --box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  --background: linear-gradient(45deg, rgb(184, 184, 235), white, rgb(214, 214, 236), white, rgb(192, 192, 236));
+  --nav: linear-gradient(90deg, rgb(202, 207, 233), white, rgb(203, 224, 231), white);
+  --cardBg: rgb(235, 242, 255);
+  --buttonBg: rgb(0, 60, 255);
   --buttonC: white;
   --borderColor: #99a09e;
   --inputField: linear-gradient(245deg, rgba(255, 255, 255), rgba(255, 255, 255));
@@ -15,8 +16,8 @@
   --scrollbar: rgb(72, 146, 68);
   --theme: #04afff;
   --icon: rgb(0, 0, 0);
-  --buttonPadding: 7px 10px;
-  --logo: linear-gradient(45deg, rgb(62, 86, 84) 50%, rgb(62, 86, 84) 50%);
+  --buttonPadding: 9px 12px;
+  --logo: teal;
   --hoverButtonBg: rgb(0, 255, 247);
 
 }
@@ -35,14 +36,9 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-size: 98%;
+  font-size: 103%;
   font-family: "Noto Sans Bengali", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-  /* text-transform: uppercase; */
+
 }
 
 h2 {
@@ -67,7 +63,15 @@ body {
   color: rgb(0, 0, 0, 0.8);
   background: var(--background);
   min-height: 100vh;
-  font-family: var(--font)
+  font-family: var(--font);
+  font-family: "Noto Sans Bengali", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  word-spacing: 1px;
+  letter-spacing: 0.5px;
 }
 
 a {
@@ -103,8 +107,12 @@ button {
   cursor: pointer;
   padding: var(--buttonPadding);
   /* text-transform: uppercase; */
-  /* font-weight: bold; */
+  font-weight: bold;
   box-shadow: var(--box-shadow);
+  word-spacing: 2px;
+  letter-spacing: 1px;
+
+
 }
 
 label {
@@ -129,4 +137,3 @@ label {
     font-size: 95%;
   }
 }
-

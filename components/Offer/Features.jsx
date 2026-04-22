@@ -3,25 +3,21 @@ import styles from '@/styles/Offer/Features.module.css'
 import Image from 'next/image';
 const features = [
   {
-    title: "Free Shipping",
-    description: "Free Shipping world wide",
-    icon: "https://cdn-icons-png.flaticon.com/128/4947/4947265.png"
+    title: "1000+",
+    description: "Active Tutors",
+    icon: "https://cdn-icons-png.flaticon.com/128/10484/10484468.png"
   },
   {
-    title: "24 x 7 Service",
-    description: "Online Service For 24 x 7",
-    icon: "https://cdn-icons-png.flaticon.com/128/8555/8555771.png"
+    title: "500+",
+    description: "Student Helped",
+    icon: "https://cdn-icons-png.flaticon.com/128/3214/3214721.png"
   },
   {
-    title: "Online Pay",
-    description: "Online Payment Available",
-    icon: "https://cdn-icons-png.flaticon.com/128/2169/2169874.png"
+    title: "24h",
+    description: "Fast Response",
+    icon: "https://cdn-icons-png.flaticon.com/128/3133/3133110.png"
   },
-  {
-    title: "Festival Offer",
-    description: "Super Sale Upto 50% off",
-    icon: "https://cdn-icons-png.flaticon.com/128/15206/15206352.png"
-  },
+  
   // {
   //   title: "100% Original",
   //   description: "100% Money Back",

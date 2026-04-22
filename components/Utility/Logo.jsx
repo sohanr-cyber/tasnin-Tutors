@@ -16,8 +16,8 @@ const Logo = ({ color }) => {
       <div className={styles.logo}>
         <Image
           src="/images/logo.png"
-          width={210}
-          height={55}
+          width={180}
+          height={30}
           alt="mediLocate"
           priority
           unoptimized
@@ -26,13 +26,14 @@ const Logo = ({ color }) => {
       </div>
       <div className={styles.mobileLogo}>
         <Image
-          src="/images/mobileLogo.png"
-          width={210}
-          height={55}
+          src="/images/logo.png"
+          width={180}
+          height={30}
           alt="mediLocate"
           priority
           unoptimized
         />
+
       </div>
     </div>
   )

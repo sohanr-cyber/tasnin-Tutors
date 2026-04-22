@@ -1,6 +1,6 @@
 import BASE_URL from '@/config'
 // const companyName = 'StyleHive '
-const companyName = "MediLocate";
+const companyName = "Tasnim Tutors";
 
 const footerP =
   'Healthcare should be simple and accessible. MedLocate connects patients with nearby doctors quickly and efficiently using location-based search technology.With just one click, you can find the right doctor at the right place'
@@ -66,21 +66,20 @@ const colors = [
   { name: 'Silver', code: '#C0C0C0' },
   { name: 'Gold', code: '#FFD700' }
 ]
-
 const seoData = {
-  title: `${companyName} - Book a Doctor at Home | সহজে ডাক্তার বাসায় আনুন`,
+  title: `${companyName} - Find & Book Trusted Tutors | সহজে টিউটর খুঁজুন`,
   description:
-    "mediLocate.health lets you connect with licensed doctors and schedule home visits at your convenience. Chat, agree on a time, and get professional medical care at your doorstep.",
+    "Tasnim Tutors helps you connect with qualified and experienced tutors for home or online learning. Find the right tutor, discuss your needs, and start learning easily at your convenience.",
   canonical: BASE_URL,
   openGraph: {
     url: BASE_URL,
-    title: `${companyName} - Doctor Home Visit Made Easy`,
+    title: `${companyName} - Learn with Expert Tutors Easily`,
     description:
-      "Connect with trusted doctors, discuss your needs, and schedule a home visit at a time that suits you. Healthcare, simplified with mediLocate.health.",
+      "Connect with verified tutors, choose your subject and schedule, and start personalized learning from home or online with ease.",
     images: [
       {
         url: `${BASE_URL}/images/og-image.jpg`,
-        alt: `${companyName} - Doctor at Home Service`,
+        alt: `${companyName} - Tutor Booking Platform`,
         width: 1200,
         height: 630
       }
@@ -96,11 +95,11 @@ const seoData = {
 
 const orderCartSeoData = {
   title: `Your Booking - ${companyName}`,
-  description: `Review your selected doctor visit and appointment details before confirming your booking with ${companyName}.`,
+  description: `Review your selected tutor, subject, and schedule before confirming your booking with ${companyName}.`,
   canonical: `${BASE_URL}/cart`,
   openGraph: {
     title: `Your Booking - ${companyName}`,
-    description: `Check doctor details, schedule, and finalize your home visit booking.`,
+    description: `Check tutor details, selected subject, and finalize your learning session booking.`,
     url: `${BASE_URL}/cart`,
     images: [
       {
@@ -117,11 +116,11 @@ const orderCartSeoData = {
 
 const TermsAndConditionSeoData = {
   title: `Terms & Conditions - ${companyName}`,
-  description: `Read the terms for using ${companyName} to connect with doctors and schedule home visit appointments.`,
+  description: `Read the terms for using ${companyName} to connect with tutors and schedule learning sessions.`,
   canonical: `${BASE_URL}/terms-and-conditions`,
   openGraph: {
     title: `Terms & Conditions - ${companyName}`,
-    description: `Understand your rights and responsibilities when booking doctor home visits via ${companyName}.`,
+    description: `Understand your rights and responsibilities when booking tutors via ${companyName}.`,
     url: `${BASE_URL}/terms-and-conditions`,
     images: [
       {
@@ -138,7 +137,7 @@ const TermsAndConditionSeoData = {
 
 const privacyPolicySeoData = {
   title: `Privacy Policy - ${companyName}`,
-  description: `Learn how ${companyName} protects your personal and medical information while connecting you with doctors.`,
+  description: `Learn how ${companyName} protects your personal information while connecting you with trusted tutors.`,
   canonical: `${BASE_URL}/privacy-policy`,
   openGraph: {
     title: `Privacy Policy - ${companyName}`,
@@ -158,19 +157,19 @@ const privacyPolicySeoData = {
 };
 
 const orderDetailSeoData = {
-  title: `Appointment Details - ${companyName}`,
-  description: `View your scheduled doctor visit, timing, and booking details with ${companyName}.`,
+  title: `Session Details - ${companyName}`,
+  description: `View your booked tutor session, schedule, and learning details with ${companyName}.`,
   canonical: `${BASE_URL}/order-details`,
   openGraph: {
-    title: `Appointment Details - ${companyName}`,
-    description: `Track and manage your doctor home visit appointments بسهولة.`,
+    title: `Session Details - ${companyName}`,
+    description: `Track and manage your tutoring sessions easily.`,
     url: `${BASE_URL}/order-details`,
     images: [
       {
         url: `${BASE_URL}/images/order-details.png`,
         width: 1200,
         height: 630,
-        alt: `Appointment Details - ${companyName}`
+        alt: `Session Details - ${companyName}`
       }
     ],
     type: "website"
@@ -179,19 +178,19 @@ const orderDetailSeoData = {
 };
 
 const reviewSeoData = {
-  title: `Confirm Your Appointment - ${companyName}`,
-  description: `Review doctor details and agreed schedule before confirming your home visit appointment.`,
+  title: `Confirm Your Booking - ${companyName}`,
+  description: `Review tutor details and schedule before confirming your learning session.`,
   canonical: `${BASE_URL}/review`,
   openGraph: {
-    title: `Confirm Your Appointment - ${companyName}`,
-    description: `Double-check your doctor selection and visit time before booking.`,
+    title: `Confirm Your Booking - ${companyName}`,
+    description: `Double-check your tutor selection and class schedule before booking.`,
     url: `${BASE_URL}/review`,
     images: [
       {
         url: `${BASE_URL}/images/review-order.png`,
         width: 1200,
         height: 630,
-        alt: `Confirm Appointment - ${companyName}`
+        alt: `Confirm Booking - ${companyName}`
       }
     ],
     type: "website"
@@ -201,11 +200,11 @@ const reviewSeoData = {
 
 const addressSeoData = {
   title: `Your Location - ${companyName}`,
-  description: `Enter your address so a doctor can visit you at home at your scheduled time.`,
+  description: `Enter your location so we can arrange home tutoring sessions at your convenience.`,
   canonical: `${BASE_URL}/address`,
   openGraph: {
     title: `Your Location - ${companyName}`,
-    description: `Provide your address to arrange a doctor home visit بسهولة.`,
+    description: `Provide your address to arrange home tutoring sessions بسهولة.`,
     url: `${BASE_URL}/address`,
     images: [
       {
@@ -222,11 +221,11 @@ const addressSeoData = {
 
 const loginSeoData = {
   title: `Login - ${companyName}`,
-  description: `Log in to book doctor home visits, chat with doctors, and manage your appointments.`,
+  description: `Log in to find tutors, book classes, and manage your learning sessions.`,
   canonical: `${BASE_URL}/login`,
   openGraph: {
     title: `Login - ${companyName}`,
-    description: `Access your account to schedule and manage doctor visits.`,
+    description: `Access your account to manage tutoring sessions and bookings.`,
     url: `${BASE_URL}/login`,
     images: [
       {
@@ -243,11 +242,11 @@ const loginSeoData = {
 
 const registerSeoData = {
   title: `Sign Up - ${companyName}`,
-  description: `Create your account to connect with doctors and schedule home visit appointments بسهولة.`,
+  description: `Create your account to connect with tutors and start learning بسهولة.`,
   canonical: `${BASE_URL}/register`,
   openGraph: {
     title: `Sign Up - ${companyName}`,
-    description: `Join ${companyName} and get healthcare at your doorstep.`,
+    description: `Join ${companyName} and start learning with expert tutors.`,
     url: `${BASE_URL}/register`,
     images: [
       {

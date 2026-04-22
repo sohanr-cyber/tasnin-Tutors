@@ -63,30 +63,22 @@ const Navbar = () => {
         <div className={styles.logo}>
           <Logo />
         </div>
-        <div className={styles.search}>
-          <SearchBox />
 
-        </div>
         <div className={styles.right}>
-          <div
-            className={`${styles.item} ${styles.search__icon}`}
-            onClick={() => setOpenSearch(true)}
-          >
-            <SearchIcon />
-          </div>
-          <ToggleLocation />
-          {isClient && (userInfo ? (
-            <div className={styles.item} onClick={() => router.push(`/profile/${userInfo.id}`)}>
-              <AccountCircleIcon />
 
-            </div>
-          ) : <div className={styles.btn} onClick={() => router.push('/login')}>Login/Register</div>)}
-          <div
-            className={`${styles.item} ${styles.menu}`}
-            onClick={() => setOpen(prev => !prev)}
-          >
-            <MenuIcon />
+          <div className={styles.item} onClick={() => router.push("/")}>
+            Home
           </div>
+          <div className={styles.item} onClick={() => router.push("/")}>
+            <button>Find Tutor</button>
+          </div>
+          <div className={styles.item} onClick={() => router.push("/")}>
+            Become Tutor
+          </div>
+          <div className={styles.item} onClick={() => router.push("/")}>
+            Contact
+          </div>
+
 
         </div>
       </div>

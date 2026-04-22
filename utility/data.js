@@ -137,141 +137,142 @@ const termsAndConditions = [
     section: 1,
     title: 'General Terms',
     content:
-      'By accessing and using mediLocate.health, you agree to comply with these Terms and Conditions. mediLocate.health is a platform that connects patients with licensed doctors for home visit appointments. We may update these terms at any time, and continued use of our services indicates your acceptance of any changes.'
+      'By accessing and using Tasnim Tutors, you agree to comply with these Terms and Conditions. Tasnim Tutors is a platform that connects students with tutors for home and online learning sessions. We may update these terms at any time, and continued use of the platform means you accept those changes.'
   },
   {
     section: 2,
     title: 'Service Description',
     content:
-      'mediLocate.health facilitates communication between patients and doctors. Appointment time, location, and consultation details are agreed upon directly between the patient and the doctor through the platform. mediLocate.health does not guarantee instant availability of doctors.'
+      'Tasnim Tutors facilitates communication between students and tutors. Class details, schedule, location (home or online), and fees are agreed directly between student and tutor through the platform. We do not guarantee instant availability of tutors.'
   },
   {
     section: 3,
-    title: 'Medical Disclaimer',
+    title: 'Educational Disclaimer',
     content:
-      'mediLocate.health does not provide medical advice, diagnosis, or treatment. All medical services are provided independently by licensed doctors. Patients are responsible for discussing their conditions directly with the doctor and making informed decisions.'
+      'Tasnim Tutors does not provide educational certification or guarantee academic results. All teaching services are provided independently by tutors. Students and guardians are responsible for evaluating tutor suitability.'
   },
   {
     section: 4,
     title: 'User Accounts',
     content:
-      'You may need to create an account to use certain features. You are responsible for maintaining the confidentiality of your account credentials. mediLocate.health reserves the right to suspend or terminate accounts that violate our policies.'
+      'Users may need to create an account to access features. You are responsible for keeping your login details secure. We may suspend or remove accounts that violate our rules or misuse the platform.'
   },
   {
     section: 5,
-    title: 'Appointments & Responsibilities',
+    title: 'Classes & Responsibilities',
     content:
-      'Patients and doctors are responsible for agreeing on a suitable time and location for home visits. Users must provide accurate information. mediLocate.health is not responsible for missed appointments, delays, or cancellations made by either party.'
+      'Students and tutors are responsible for agreeing on schedules, subjects, and locations. Users must provide accurate information. Tasnim Tutors is not responsible for missed classes, delays, or cancellations from either side.'
   },
   {
     section: 6,
     title: 'Payments',
     content:
-      'Payments for doctor services may be processed through the platform or handled directly between patient and doctor, depending on the service type. Users agree to provide accurate billing information. Refunds, if applicable, depend on individual cases and policies.'
+      'Payments may be handled through the platform or directly between student and tutor depending on the service type. Users must ensure correct payment details. Refunds depend on individual cases and agreed policies.'
   },
   {
     section: 7,
     title: 'Privacy and Data Protection',
     content:
-      'We value your privacy. Personal data is collected and used in accordance with our Privacy Policy. By using mediLocate.health, you consent to the collection and use of your information for service delivery.'
+      'We value your privacy. Your data is collected and used according to our Privacy Policy. By using Tasnim Tutors, you agree to the collection and use of your information for providing services.'
   },
   {
     section: 8,
     title: 'Prohibited Activities',
     content:
-      'Users must not engage in fraudulent activities, impersonation, harassment, or misuse of the platform. Any attempt to exploit doctors or patients, or to bypass the system unfairly, may result in account suspension.'
+      'Users must not misuse the platform, including fraud, impersonation, harassment, or sharing false information. Any attempt to exploit students, parents, or tutors may result in account suspension.'
   },
   {
     section: 9,
     title: 'Third-Party Responsibility',
     content:
-      'Doctors on mediLocate.health are independent professionals. mediLocate.health does not control or guarantee the quality, outcome, or effectiveness of medical services provided.'
+      'Tutors are independent individuals. Tasnim Tutors does not control or guarantee the teaching quality, results, or performance of any tutor.'
   },
   {
     section: 10,
     title: 'Limitation of Liability',
     content:
-      'mediLocate.health is not liable for any direct or indirect damages, including medical outcomes, delays, or disputes between users. The platform is provided on an "as is" basis without warranties.'
+      'Tasnim Tutors is not responsible for any direct or indirect issues arising from tutoring sessions, including academic performance, delays, or disputes between users. The platform is provided "as is" without guarantees.'
   },
   {
     section: 11,
     title: 'Contact Us',
     content:
-      'For any questions regarding these Terms and Conditions, please contact us at support@medilocate.health.'
+      'For any questions regarding these Terms and Conditions, contact us at support@tasnimtutors.com.'
   }
 ];
+
 const privacyPolicy = [
   {
     section: 1,
     title: 'Introduction',
     content:
-      'mediLocate.health is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our platform to connect with doctors for home visits.'
+      'Tasnim Tutors is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our platform to connect students and tutors.'
   },
   {
     section: 2,
     title: 'Information We Collect',
     content:
-      'We collect personal information such as your name, phone number, email, location, and basic health-related details required to connect you with doctors. We may also collect device and usage data to improve our services.'
+      'We collect personal information such as name, phone number, email, location, academic level, and subject preferences. We may also collect device and usage data to improve our services.'
   },
   {
     section: 3,
     title: 'How We Use Your Information',
     content:
-      'Your data is used to connect you with doctors, facilitate appointment scheduling, enable communication, process payments, and improve user experience. We may also send notifications related to your bookings.'
+      'Your information is used to connect students with tutors, manage class scheduling, enable communication, process payments, and improve user experience. We may also send notifications about bookings or updates.'
   },
   {
     section: 4,
     title: 'Sharing of Information',
     content:
-      'Your information may be shared with doctors to facilitate consultations and home visits. We do not sell your personal data. Data may also be shared with trusted service providers such as payment processors or when required by law.'
+      'Your information may be shared with tutors to facilitate learning sessions. We do not sell personal data. Data may be shared with trusted service providers such as payment systems or when required by law.'
   },
   {
     section: 5,
-    title: 'Doctor-Patient Communication',
+    title: 'Student-Tutor Communication',
     content:
-      'Information shared during chat or communication with doctors may be stored to improve service quality and resolve disputes. However, sensitive medical discussions remain private between patient and doctor.'
+      'Messages and communication between students and tutors may be stored to improve service quality and resolve disputes. However, learning content remains private between both parties.'
   },
   {
     section: 6,
     title: 'Data Security',
     content:
-      'We implement appropriate security measures to protect your data. However, no system is completely secure, and users should take precautions when sharing sensitive information.'
+      'We use security measures to protect your data. However, no system is fully secure, so users should also take care when sharing sensitive information.'
   },
   {
     section: 7,
     title: 'Cookies and Tracking',
     content:
-      'We use cookies and similar technologies to enhance user experience, analyze usage, and personalize content. You can control cookies through your browser settings.'
+      'We use cookies to improve user experience, analyze traffic, and personalize content. You can manage cookies through your browser settings.'
   },
   {
     section: 8,
     title: 'User Rights',
     content:
-      'You have the right to access, update, or request deletion of your personal data. You may also opt out of non-essential communications.'
+      'You can access, update, or request deletion of your data. You may also opt out of non-essential notifications at any time.'
   },
   {
     section: 9,
     title: 'Data Retention',
     content:
-      'We retain your information only as long as necessary to provide services and comply with legal obligations. Afterward, data is securely deleted or anonymized.'
+      'We keep your data only as long as needed to provide services or meet legal requirements. After that, it is securely deleted or anonymized.'
   },
   {
     section: 10,
     title: 'Children’s Privacy',
     content:
-      'mediLocate.health does not knowingly collect data from individuals under 18. If such data is identified, it will be removed promptly.'
+      'Tasnim Tutors does not knowingly collect data from children under 13 without parental consent. If such data is found, it will be removed.'
   },
   {
     section: 11,
     title: 'Updates to Policy',
     content:
-      'We may update this Privacy Policy from time to time. Changes will be posted on this page, and continued use of the platform indicates acceptance.'
+      'We may update this Privacy Policy from time to time. Updates will be posted on this page, and continued use means acceptance.'
   },
   {
     section: 12,
     title: 'Contact Us',
     content:
-      'If you have any questions about this Privacy Policy, contact us at privacy@medilocate.health.'
+      'If you have any questions about this Privacy Policy, contact us at privacy@tasnimtutors.com.'
   }
 ];
 

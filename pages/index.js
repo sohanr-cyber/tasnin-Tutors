@@ -31,6 +31,8 @@ import users from '@/utility/data'
 import MapPicker from '@/components/Utility/MapPicker'
 import { useSelector } from 'react-redux'
 import { useEffect, useState } from 'react'
+import Why from '@/components/Offer/Why'
+import Architecture from '@/components/Offer/Architecture'
 
 
 export default function Home({ contents, departments, symptoms }) {
@@ -64,29 +66,29 @@ export default function Home({ contents, departments, symptoms }) {
   return (
     <>
       <NextSeo
-        title="mediLocate.health – Book a Doctor at Home সহজে"
-        description="Connect with licensed doctors and schedule home visits at your convenience. Chat with doctors, agree on a time, and get medical care at your doorstep with mediLocate.health."
+        title="Tasnim Tutors – Find & Book Expert Tutors সহজে"
+        description="Connect with qualified tutors and schedule home or online classes at your convenience. Chat with tutors, choose your subject, and start learning easily with Tasnim Tutors."
         openGraph={{
-          title: "mediLocate.health – Doctor at Your Door",
+          title: "Tasnim Tutors – Learn with Trusted Tutors",
           description:
-            "Skip the hospital. Chat with trusted doctors and schedule a home visit at a time that works for you. সহজে ডাক্তার বাসায় আনুন with mediLocate.health.",
+            "Skip the hassle of searching. Connect with experienced tutors and book personalized home or online classes at your preferred time. সহজে টিউটর খুঁজুন with Tasnim Tutors.",
           url: BASE_URL,
-          site_name: "mediLocate.health",
+          site_name: "Tasnim Tutors",
           images: [
             {
               url:
                 contents?.find(i => i.position === "header")?.image ||
-                `${BASE_URL}/images/medilocate.png`,
+                `${BASE_URL}/images/tasnim-tutors.png`,
               width: 1200,
               height: 630,
-              alt: "mediLocate.health – Doctor Home Visit Service",
+              alt: "Tasnim Tutors – Tutor Booking Platform",
             },
           ],
           type: "website",
         }}
         twitter={{
-          handle: "@medilocate",
-          site: "@medilocate",
+          handle: "@tasnimtutors",
+          site: "@tasnimtutors",
           cardType: "summary_large_image",
         }}
       />
@@ -97,19 +99,36 @@ export default function Home({ contents, departments, symptoms }) {
       <div className={styles.wrapper}>
 
         <Header3 contents={contents.filter(i => i.position == "header")} />
-        <div className={styles.categoriesInRow}>
-          <Row items={departments} />
-          {/* <Grid /> */}
+        <div className={styles.features}>
+          <Features />
         </div>
 
-        <ProductsByCategory2
+        <div className={styles.categoriesInRow} style={{ textAlign: "center" }}>
+          <div className={styles.top}>
+            <h2>Tutors From <span className={styles.icon}>Top Universities</span></h2>
+            <p>Out tutors from Bangladesh's most reputed instituions including BUET , DU , DMC , IBA , NSU , BRAC and more</p>
+          </div>
+          <Grid items={departments} />
+        </div>
+        <div className={styles.categoriesInRow} style={{ textAlign: "center" }}>
+          <div className={styles.top}>
+            <h2>How does it work for <span className={styles.icon}>guardians/students</span> ?</h2>
+            {/* <p>Out tutors from Bangladesh's most reputed instituions including BUET , DU , DMC , IBA , NSU , BRAC and more</p> */}
+          </div>
+          <Architecture />
+        </div>
+        <div className={styles.off}>
+          <Why />
+        </div>
+
+        {/* <ProductsByCategory2
           products={doctors}
           structure={'grid'}
-          title={"Doctors Available For You"}
-          description={"Find trusted doctors nearby and book appointments easily!"}
+          title={"Tutors From Top University"}
+          description={"Our Tutor Come from Bangladesh most reputed instituions including BUET , DU , DMC , IBA , NSU , BRAC and more"}
           incoming={incoming}
           seeMore={true}
-        />
+        /> */}
 
         {/* <ProductsByCategory2
           products={users}
@@ -118,19 +137,10 @@ export default function Home({ contents, departments, symptoms }) {
           description={"Consult verified doctors online anytime, anywhere!"}
         /> */}
 
-        <div className={styles.categoriesInRow} style={{ textAlign: "center" }}>
-          {/* <Row /> */}
-          <div className={styles.top}>
-            <h2>Chose A Symptom</h2>
-            <p>Select your symptoms to find relevant healthcare services and specialists</p>
-          </div>
-          <Grid items={symptoms} />
-        </div>
-        <div className={styles.features}>
-          {/* <Features /> */}
-        </div>
+
+
         <div className={styles.off}>
-          {/* <Subscribe content={contents.filter(i => i.position == "subscription")[0]} /> */}
+          <ShopNow content={contents.filter(i => i.position == "cta")[0]} />
         </div>
       </div>
     </>

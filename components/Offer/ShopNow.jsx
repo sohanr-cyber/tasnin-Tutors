@@ -26,7 +26,9 @@ const ShopNow = ({ content }) => {
                 <p>
                     {content?.description}
                 </p>
-                {content?.buttonText && content?.buttonHref && (<div className={styles.btn}>Shop Now</div>
+                {content?.buttonText && content?.buttonHref && (<div className={styles.btn}>
+                    {content.buttonText}
+                </div>
                 )}
             </div>
         </div>
