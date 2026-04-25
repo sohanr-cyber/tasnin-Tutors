@@ -142,11 +142,22 @@
         padding: 10px;
     }
 
-    .slide p {
+    .slide .description {
         max-width: 90%;
-        /* display: none; */
+        display: none;
     }
 
+    .slide .title {
+        
+    }
+
+    .slide .title div , .slide .title span {
+        display: inline;
+    }
+
+    .slide .title div {
+        margin:0 10px;
+    }
     .wrapper .dots {
         margin-top: 10px;
         margin-bottom: 0;

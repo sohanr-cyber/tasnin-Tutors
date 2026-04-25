@@ -23,7 +23,6 @@
     border-radius: 5px;
     overflow: hidden;
     gap: 10px;
-    min-width: 470px;
 
 }
 
@@ -66,7 +65,9 @@
         grid-template-columns: repeat(1, 1fr);
         gap: 10px
     }
-
+    .wrapper .steps .step .description {
+        display: none;
+    }
 
 
 }

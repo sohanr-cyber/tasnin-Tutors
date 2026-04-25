@@ -3,7 +3,7 @@ import BASE_URL from '@/config'
 const companyName = "Tasnim Tutors";
 
 const footerP =
-  'Healthcare should be simple and accessible. MedLocate connects patients with nearby doctors quickly and efficiently using location-based search technology.With just one click, you can find the right doctor at the right place'
+  'Finding the right tutor should be simple and stress-free. Tasnim Tutors connects students and guardians with trusted home and online tutors quickly and efficiently. With just one click, you can find the right tutor for the right subject in your preferred location.';
 const Inside_Dhaka = 70
 const Outside_Dhaka = 145
 const Dhaka_Subburb = 150
