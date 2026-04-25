@@ -1,24 +1,31 @@
 import React from 'react'
 import styles from '../../styles/Offer/Why.module.css'
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
+
 const data = [
     {
-        c: "gold",
-        t: "Verified & Trusted Tutors"
+        c: "#D4AF37", // Professional Gold
+        t: "Verified & Trusted Tutors",
+        // Soft gradient from gold to a clean transparent white
+        b: "linear-gradient(135deg, rgba(252, 225, 185, 0.6) 0%, rgba(240, 248, 255, 0.9) 60%)"
     },
     {
-        c: "aqua",
-        t: "Tutor For All Classes (1 - HSC , Admission)"
+        c: "#00CED1", // Darker Aqua for readability
+        t: "Tutor For All Classes (1 - HSC, Admission)",
+        b: "linear-gradient(135deg, rgba(186, 247, 255, 0.6) 0%, rgba(240, 248, 255, 0.9) 60%)"
     },
     {
-        c: "green",
-        t: "Both Bangla and English Medim"
+        c: "#2E7D32", // Academic Green
+        t: "Both Bangla and English Medium",
+        b: "linear-gradient(135deg, rgba(134, 255, 170, 0.4) 0%, rgba(240, 248, 255, 0.9) 60%)"
     },
     {
-        c: "purple",
-        t: "Home Tutoring and Online Tutoring"
+        c: "#8E44AD", // Deep Purple
+        t: "Home Tutoring and Online Tutoring",
+        b: "linear-gradient(135deg, rgba(213, 170, 248, 0.5) 0%, rgba(240, 248, 255, 0.9) 60%)"
     }
 ]
+
 const Why = () => {
     return (
         <div className={styles.wraper} style={{
@@ -28,22 +35,31 @@ const Why = () => {
             backgroundRepeat: 'no-repeat',
         }}>
             <div className={styles.left}>
-
+                {/* Left side space for the student/tutor background image focus */}
             </div>
+            
             <div className={styles.right}>
-                <b className={styles.title}>Why Choses <span className={styles.icon}>Tasnim Tutors ?</span>
+                <h2 className={styles.title}>
+                    Why Choose <span className={styles.brandColor}>Tasnim Tutors?</span>
+                </h2>
 
-                </b>
                 <div className={styles.reason}>
-                    {data.map((e, i) => (
-                        <> <div className={styles.item}>
-                            <div className={styles.icon}>
-                                <CheckCircleIcon style={{ fontSize: "250%", color: `${e.c}` }} />
+                    {data.map((item, index) => (
+                        <div 
+                            key={index} 
+                            className={styles.item} 
+                            style={{ 
+                                background: item.b,
+                                borderLeft: `5px solid ${item.c}` // Adds a professional accent line
+                            }}
+                        >
+                            <div className={styles.iconContainer}>
+                                <CheckCircleIcon style={{ fontSize: "2.5rem", color: item.c }} />
                             </div>
                             <div className={styles.text}>
-                                {e.t}
+                                {item.t}
                             </div>
-                        </div></>
+                        </div>
                     ))}
                 </div>
             </div>

@@ -11,7 +11,7 @@
     justify-content: center;
     gap: 10px;
     /* border: 1px solid var(--borderColor); */
-    border-radius: 0;
+    border-radius: 5px;
     padding: 15px 10px;
     background: var(--cardBg);
     box-shadow: var(--box-shadow);
@@ -45,13 +45,9 @@
 
 
 
-@media (max-width:920px) {
-    
-}
+@media (max-width:920px) {}
 
-@media (max-width:720px) {
-   
-}
+@media (max-width:720px) {}
 
 @media (max-width:570px) {
     .wrapper {

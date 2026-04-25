@@ -1,6 +1,6 @@
 .wrapper {
     text-align: center;
-    border-radius: 0;
+    border-radius: 5px;
     overflow: hidden;
     position: relative;
 
@@ -40,12 +40,13 @@
 .wrapper p {
     /* text-shadow: 1px 1px black; */
     width: 90%;
-    
+
 }
 
 .wrapper b {
     font-size: 150%;
 }
+
 .wrapper p {
     font-size: 95%;
 }

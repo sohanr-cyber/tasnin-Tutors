@@ -8,9 +8,9 @@
 }
 
 .wrapper .form__container {
-    background: var(--cardBg);
+    background: rgba(0, 183, 255, 0.1);
     padding: 15px;
-    border-radius: 0;
+    border-radius: 5px;
     text-align: center;
     /* min-width: 280px; */
 }
@@ -43,10 +43,10 @@
 .wrapper form .btn {
     padding: 10px;
     ;
-    border-radius: 0;
+    border-radius: 5px;
     border: none;
     /* border: 1px solid var(--borderColor); */
-    background-color: aliceblue;
+    background: rgb(255, 255, 255)
 }
 
 .wrapper form .btn {
@@ -78,13 +78,13 @@
 
 .field .flex {
     display: flex;
-    gap:10px;
+    gap: 10px;
     justify-content: flex-start;
     margin-top: 10px;
 }
 
 .field .flex span {
-    border:1px solid var(--borderColor);
+    border: 1px solid var(--borderColor);
     padding: 3px;
     border-radius: 5px;
     cursor: pointer;

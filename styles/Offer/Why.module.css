@@ -18,15 +18,15 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding:25px;
-        /* align-items: center; */
+    padding: 25px;
+    /* align-items: center; */
 }
 
 .wraper .right .reason {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
-  margin-bottom: 25px;
+    margin-bottom: 25px;
 
 }
 
@@ -40,7 +40,6 @@
 }
 
 .wraper .right .reason .item {
-    background: var(--cardBg);
     display: flex;
     align-items: center;
     gap: 15px;
@@ -53,4 +52,17 @@
 .wraper .right .reason .item .icon {
     color: green;
 
+}
+
+@media (max-width:410px) {
+    .wraper .right {
+        flex: 100;
+        padding: 10px;
+    }
+
+    .wraper .right .reason {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
 }

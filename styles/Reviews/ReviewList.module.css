@@ -10,7 +10,7 @@
 
 .btn {
     background: var(--buttonBg);
-    border-radius: 0px;
+    border-radius: 5px;
     color: var(--buttonC);
     padding: var(--buttonPadding);
     text-align: center;
@@ -31,6 +31,6 @@
 
 @media (max-width:570px) {
     .flex {
-     flex-direction: column-reverse;
+        flex-direction: column-reverse;
     }
 }

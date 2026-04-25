@@ -16,7 +16,7 @@
 .wrapper .forms .right {
     background-color: var(--cardBg);
     padding: 10px;
-    border-radius: 0;
+    border-radius: 5px;
     flex: 1;
     padding-bottom: 20px;
     box-shadow: var(--box-shadow);
@@ -106,12 +106,12 @@
     overflow: scroll;
     max-height: 200px;
     padding: 5px;
-    
+
 }
 
 .left .options span {
     padding: 2px 3px;
-    border-radius: 0;
+    border-radius: 5px;
     background-color: aquamarine;
     cursor: pointer;
 }
@@ -126,7 +126,7 @@
 
 .images .image__container {
     border: 1px solid var(--borderColor);
-    border-radius: 0;
+    border-radius: 5px;
     max-height: 180px;
     min-width: 180px;
     aspect-ratio: 1/1;
@@ -204,7 +204,7 @@
 
 .selection span {
     padding: 2px 7px;
-    border-radius: 0;
+    border-radius: 5px;
     border: 1px solid var(--borderColor);
     cursor: pointer;
     display: flex;
@@ -219,7 +219,7 @@
 }
 
 .selection .quantity span {
-    border-radius: 0;
+    border-radius: 5px;
 }
 
 .selected {
@@ -239,7 +239,7 @@
 .wrapper .position {
     border: 1px solid black;
     padding: 7px;
-    border-radius: 0;
+    border-radius: 5px;
     text-transform: capitalize;
     cursor: pointer;
 

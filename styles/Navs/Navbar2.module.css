@@ -77,7 +77,18 @@
     .wrapper .right {
         gap: 10px
     }
+
+    .wrapper .right {
+        display: none;
+    }
+    .wrapper .left {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row-reverse;
+    }
 }
+
 
 
 @media (max-width:410px) {

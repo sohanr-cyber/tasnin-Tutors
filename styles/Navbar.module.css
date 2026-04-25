@@ -39,9 +39,9 @@
     /* background: var(--buttonBg); */
     border-radius: 5px;
     border: 1px solid var(--theme);
-    padding:9px 5px;
+    padding: 9px 5px;
     font-size: 95%;
-    color:var(--theme);
+    color: var(--theme);
     cursor: pointer;
 
 }
@@ -75,7 +75,7 @@
     justify-content: center;
     /* border: 1px solid rgb(247, 0, 0); */
     padding: 5px 10px;
-    border-radius: 0;
+    border-radius: 5px;
     background-color: rgb(255, 0, 0, 0.1);
     color: black;
 }
@@ -118,7 +118,7 @@
     justify-content: flex-end;
     align-items: center;
     color: var(--icon);
-    
+
 }
 
 .wrapper .right .item {
