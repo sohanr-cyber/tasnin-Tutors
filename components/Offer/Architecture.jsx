@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import styles from "../../styles/Offer/Architecture.module.css";
 import Image from "next/image";
+import { useRouter } from "next/router";
 
 const data = [
   {
@@ -31,7 +32,7 @@ const data = [
 
 const Architecture = () => {
   const [screenSize, setScreenSize] = useState(0);
-
+  const router = useRouter()
   useEffect(() => {
     const handleResize = () => {
       setScreenSize(window.innerWidth);
