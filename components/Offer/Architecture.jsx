@@ -80,6 +80,9 @@ const Architecture = () => {
           </div>
         ))}
       </div>
+      <button className={styles.button} onClick={() => router.push("/hire")}>
+        Request A Tutor
+      </button>
     </div>
   );
 };

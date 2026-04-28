@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import styles from '../../styles/Offer/Why.module.css'
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
+import Logo from '../Utility/Logo';
 
 const data = [
     {
@@ -27,28 +28,59 @@ const data = [
 ]
 
 const Why = () => {
+    const [screenSize, setScreenSize] = useState(0);
+
+    useEffect(() => {
+        const handleResize = () => {
+            setScreenSize(window.innerWidth);
+        };
+
+        // Initial screen size set
+        handleResize();
+
+        window.addEventListener("resize", handleResize);
+
+        return () => {
+            window.removeEventListener("resize", handleResize);
+        };
+    }, []);
     return (
-        <div className={styles.wraper} style={{
+        <div className={styles.wraper} style={screenSize > 570 ? {
             backgroundImage: "url('https://res.cloudinary.com/dicwszs3e/image/upload/v1776752648/division/rwzrhbc2aqvvdawp3z0t.png')",
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat',
+        } : {
+            // backgroundImage: "url('https://res.cloudinary.com/dicwszs3e/image/upload/v1777351283/division/woknslog2f8fho4ha0al.png')",
+            backgroundImage: "url('https://res.cloudinary.com/dicwszs3e/image/upload/v1777350646/division/cwawglgdkejfcugrdj0p.png')",
+
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            backgroundRepeat: 'no-repeat',
+            minHeight: "80vh",
+
         }}>
             <div className={styles.left}>
                 {/* Left side space for the student/tutor background image focus */}
             </div>
-            
-            <div className={styles.right}>
+
+            <div className={styles.right} style={{
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "space-between"
+            }}>
                 <h2 className={styles.title}>
+                    <Logo />
+
                     Why Choose <span className={styles.brandColor}>Tasnim Tutors?</span>
                 </h2>
 
                 <div className={styles.reason}>
                     {data.map((item, index) => (
-                        <div 
-                            key={index} 
-                            className={styles.item} 
-                            style={{ 
+                        <div
+                            key={index}
+                            className={styles.item}
+                            style={{
                                 background: item.b,
                                 borderLeft: `5px solid ${item.c}` // Adds a professional accent line
                             }}

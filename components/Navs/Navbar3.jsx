@@ -50,12 +50,15 @@ const Navbar3 = () => {
             {openSearch && <SearchBox2 setOpen={setOpenSearch} />}
             {open && <CategoriesSlider setOpen={setOpen} />}
             <div className={styles.left}>
-                <MenuIcon
-                    className={styles.icon}
-                    onClick={() => setOpen(prev => !prev)}
-                    style={{ fontSize: "180%" }}
+                <div className={styles.leftInner}>
+                    <button onClick={() => router.push("/hire")}>Request Tutor</button>
+                    <MenuIcon
+                        className={styles.icon}
+                        onClick={() => setOpen(prev => !prev)}
+                        style={{ fontSize: "180%" }}
 
-                />
+                    />
+                </div>
                 <div className={styles.mid} style={{ transform: "scale(0.8)", marginLeft: "-10px" }}>
                     <Logo />
                 </div>

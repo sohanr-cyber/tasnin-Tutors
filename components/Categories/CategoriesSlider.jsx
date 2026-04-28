@@ -37,18 +37,30 @@ const CategoriesSlider = ({ setOpen }) => {
             <div className={styles.categories}>
               {categories && (
                 <>
-                  {' '}
                   <div className={styles.category}>
+                    {/* <FindNearMe text={"Find Doctor"} /> */}
+                    <button onClick={() => router.push("/hire")}>Request A Tutor</button>
+                  </div>                  <div className={styles.category}>
                     <div onClick={() => router.push(`/`)}>Home</div>
                   </div>
+
                   <div className={styles.category}>
-                    <FindNearMe text={"Find Doctor"} />
+                    <div onClick={() => router.push(`/login`)}>Login</div>
+                  </div>
+                  <div className={styles.category}>
+                    <div onClick={() => router.push(`/register`)}>Register</div>
+                  </div>
+                  <div className={styles.category}>
+                    <div onClick={() => router.push(`/`)}>Tutor Profile</div>
+                  </div>
+                  <div className={styles.category}>
+                    <div onClick={() => router.push(`/`)}>About Us</div>
                   </div>
                 </>
               )}
 
               {categories
-                ? categories.map((i, index) => (
+                ? [].map((i, index) => (
                   <>
                     {' '}
                     <div className={styles.category} key={index}>

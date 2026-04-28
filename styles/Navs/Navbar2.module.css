@@ -11,9 +11,9 @@
     /* background: var(--buttonBg); */
     border-radius: 5px;
     border: 1px solid var(--theme);
-    padding:9px 5px;
+    padding: 9px 5px;
     font-size: 95%;
-    color:var(--theme);
+    color: var(--theme);
     cursor: pointer;
 }
 
@@ -81,12 +81,22 @@
     .wrapper .right {
         display: none;
     }
+
     .wrapper .left {
         width: 100%;
         display: flex;
         justify-content: space-between;
         flex-direction: row-reverse;
     }
+
+    .wrapper .left .leftInner {
+
+        display: flex;
+        align-items: center;
+        gap:10px;
+    }
+
+    ;
 }
 
 
