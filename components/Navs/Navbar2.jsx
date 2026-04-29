@@ -65,7 +65,7 @@ const Navbar2 = () => {
         <Logo />
       </div>
       <div className={styles.right}>
-        <button>Request  Tutor</button>
+        <button onClick={() => router.push("/hire")}>Request  Tutor</button>
         <ToggleLocation />
         {isClient && (userInfo ? (
           <div className={styles.icon} onClick={() => userInfo.role == "admin" ? router.push(`/admin`) : router.push(`/profile/${userInfo.id}`)}>

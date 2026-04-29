@@ -8,7 +8,7 @@ import { useDispatch } from 'react-redux'
 import { login } from '@/redux/userSlice'
 import { showSnackBar } from '@/redux/notistackSlice'
 import { NextSeo } from 'next-seo'
-import { loginSeoData } from '@/utility/const'
+import { hireTutorSeoData, loginSeoData } from '@/utility/const'
 import { finishLoading, startLoading } from '@/redux/stateSlice'
 
 
@@ -85,7 +85,7 @@ const Login = () => {
             setUser(initialState)
 
             // optional redirect (you can remove if not needed)
-            router.push('/success')
+            router.push('/')
         } else {
             dispatch(
                 showSnackBar({
@@ -112,7 +112,7 @@ const Login = () => {
 
     return (
         <>
-            <NextSeo {...loginSeoData} />
+            <NextSeo {...hireTutorSeoData} />
             <div className={styles.wrapper}>
                 <div className={styles.form__container}>
                     <div className={styles.logo}>

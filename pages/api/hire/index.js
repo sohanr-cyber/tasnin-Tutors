@@ -2,12 +2,13 @@ import nextConnect from 'next-connect'
 import db from '@/database/connection'
 import Requirement from '@/database/model/Requirement'
 // import { sendToTelegram } from '@/lib/notifyTelegram'
-
+import Message from '@/services/message-service'
 const handler = nextConnect()
-
+const message = new Message()
 // ========================
 // GET ALL REQUESTS (ADMIN)
 // ========================
+
 handler.get(async (req, res) => {
     try {
         await db.connect()
@@ -42,6 +43,9 @@ handler.post(async (req, res) => {
 
         // 🔥 Instant admin notification (Telegram)
         // await sendToTelegram(newRequest)
+        await message.sendMessage({ number: newRequest.phone, message: "Tasnim Tutors - We Have recieved Tutor Request From You " })
+        await message.sendMessage({ number: "01744329811", message: `Tasnim Tutors - New Tutor Request From ${newRequest.phone}` })
+
 
         res.status(201).json({
             success: true,

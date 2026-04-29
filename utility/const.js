@@ -239,6 +239,49 @@ const loginSeoData = {
   },
   twitter: seoData.twitter
 };
+export const tutorRegistrationSeoData = {
+  title: `Tutor Registration - ${companyName}`,
+  description: `Register as a tutor to find suitable tuition opportunities, connect with students, and grow your teaching career with ${companyName}.`,
+  canonical: `${BASE_URL}/tutor-registration`,
+  openGraph: {
+    title: `Tutor Registration - ${companyName}`,
+    description: `Join as a verified tutor, submit your academic details, preferred subjects, and tuition preferences to get matched with students.`,
+    url: `${BASE_URL}/tutor-registration`,
+    images: [
+      {
+        url: `${BASE_URL}/images/tutor-registration.png`,
+        width: 1200,
+        height: 630,
+        alt: `Tutor Registration - ${companyName}`
+      }
+    ],
+    type: "website"
+  },
+  twitter: seoData.twitter
+};
+
+export const hireTutorSeoData = {
+  title: `Hire a Tutor - ${companyName}`,
+  description: `Find the perfect tutor for your child. Submit your tutoring requirements and get matched with qualified home and online tutors quickly.`,
+  canonical: `${BASE_URL}/hire`,
+  openGraph: {
+    title: `Hire a Tutor - ${companyName}`,
+    description: `Request a tutor by submitting class, subjects, location, budget, and tutor preferences. We help you find the right match fast.`,
+    url: `${BASE_URL}/hire`,
+    images: [
+      {
+        url: `${BASE_URL}/images/hire.png`,
+        width: 1200,
+        height: 630,
+        alt: `Hire a Tutor - ${companyName}`
+      }
+    ],
+    type: "website"
+  },
+  twitter: seoData.twitter
+};
+
+
 
 const registerSeoData = {
   title: `Sign Up - ${companyName}`,

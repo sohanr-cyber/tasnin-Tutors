@@ -70,9 +70,9 @@ const Navbar = () => {
             Home
           </div>
           <div className={styles.item} onClick={() => router.push("/")}>
-            <button>Find Tutor</button>
+            <button onClick={ () => router.push("/hire")}>Find Tutor</button>
           </div>
-          <div className={styles.item} onClick={() => router.push("/")}>
+          <div className={styles.item} onClick={() => router.push("/tutor-registration")}>
             Become Tutor
           </div>
           <div className={styles.item} onClick={() => router.push("/")}>
