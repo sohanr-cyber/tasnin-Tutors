@@ -1,0 +1,4131 @@
+{
+  
+    "locations": [
+      {
+        "id": 963,
+        "city_id": 1,
+        "name": "Chandrima Udyan",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-01T11:50:10.000000Z",
+        "updated_at": "2026-04-01T11:50:10.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 964,
+        "city_id": 1,
+        "name": "Chankharpul",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-02T04:24:24.000000Z",
+        "updated_at": "2026-04-02T04:24:24.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 967,
+        "city_id": 1,
+        "name": "Dakshin Khan",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-05T15:31:47.000000Z",
+        "updated_at": "2026-04-05T15:31:47.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 968,
+        "city_id": 1,
+        "name": "Moddho Badda",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-06T11:43:20.000000Z",
+        "updated_at": "2026-04-06T11:43:20.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 969,
+        "city_id": 1,
+        "name": "Dakkhin Banasree",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-08T05:47:47.000000Z",
+        "updated_at": "2026-04-08T05:47:47.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 970,
+        "city_id": 1,
+        "name": "Poschim Malibagh",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-08T07:04:33.000000Z",
+        "updated_at": "2026-04-08T07:04:33.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 971,
+        "city_id": 1,
+        "name": "Uttara",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-08T10:39:42.000000Z",
+        "updated_at": "2026-04-08T10:39:42.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 974,
+        "city_id": 1,
+        "name": "Shegunbagicha",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-16T04:15:53.000000Z",
+        "updated_at": "2026-04-16T04:15:53.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 975,
+        "city_id": 1,
+        "name": "Bongshal",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-16T12:20:55.000000Z",
+        "updated_at": "2026-04-16T12:20:55.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 976,
+        "city_id": 1,
+        "name": "Uttar Badda",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-24T16:27:37.000000Z",
+        "updated_at": "2026-04-24T16:27:37.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 979,
+        "city_id": 1,
+        "name": "West Shewrapara",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-27T11:29:27.000000Z",
+        "updated_at": "2026-04-27T11:29:27.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 980,
+        "city_id": 1,
+        "name": "Damra",
+        "is_active": true,
+        "order": 0,
+        "created_at": "2026-04-29T15:53:54.000000Z",
+        "updated_at": "2026-04-29T15:53:54.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 951,
+        "city_id": 1,
+        "name": "Mirpur 60-Feet",
+        "is_active": true,
+        "order": 1,
+        "created_at": "2026-03-02T11:30:37.000000Z",
+        "updated_at": "2026-03-26T17:51:25.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 2,
+        "city_id": 1,
+        "name": "Adabor",
+        "is_active": true,
+        "order": 2,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 953,
+        "city_id": 1,
+        "name": "Kallyanpur",
+        "is_active": true,
+        "order": 2,
+        "created_at": "2026-03-16T10:18:16.000000Z",
+        "updated_at": "2026-03-26T17:51:25.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 3,
+        "city_id": 1,
+        "name": "Aftabnagar",
+        "is_active": true,
+        "order": 3,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 952,
+        "city_id": 1,
+        "name": "Mirpur 15",
+        "is_active": true,
+        "order": 3,
+        "created_at": "2026-03-03T16:48:38.000000Z",
+        "updated_at": "2026-03-26T17:51:25.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 4,
+        "city_id": 1,
+        "name": "Agargaon",
+        "is_active": true,
+        "order": 4,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 5,
+        "city_id": 1,
+        "name": "Airport Area",
+        "is_active": true,
+        "order": 5,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 6,
+        "city_id": 1,
+        "name": "Arambagh",
+        "is_active": true,
+        "order": 6,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 7,
+        "city_id": 1,
+        "name": "Armanitola",
+        "is_active": true,
+        "order": 7,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 8,
+        "city_id": 1,
+        "name": "Asad Gate",
+        "is_active": true,
+        "order": 8,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 1,
+        "city_id": 1,
+        "name": "Abdullahpur",
+        "is_active": true,
+        "order": 9,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-03-26T17:51:25.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 9,
+        "city_id": 1,
+        "name": "Ashkona",
+        "is_active": true,
+        "order": 9,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 10,
+        "city_id": 1,
+        "name": "Azampur Kachabazar",
+        "is_active": true,
+        "order": 10,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 11,
+        "city_id": 1,
+        "name": "Azimpur",
+        "is_active": true,
+        "order": 11,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 12,
+        "city_id": 1,
+        "name": "Badda",
+        "is_active": true,
+        "order": 12,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 13,
+        "city_id": 1,
+        "name": "Baily Road",
+        "is_active": true,
+        "order": 13,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 14,
+        "city_id": 1,
+        "name": "Bakshi Bazar",
+        "is_active": true,
+        "order": 14,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 15,
+        "city_id": 1,
+        "name": "Banani",
+        "is_active": true,
+        "order": 15,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 16,
+        "city_id": 1,
+        "name": "Banani DOHS",
+        "is_active": true,
+        "order": 16,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 17,
+        "city_id": 1,
+        "name": "Banasree",
+        "is_active": true,
+        "order": 17,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 18,
+        "city_id": 1,
+        "name": "Bangla Motor",
+        "is_active": true,
+        "order": 18,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 19,
+        "city_id": 1,
+        "name": "Bangshal",
+        "is_active": true,
+        "order": 19,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 20,
+        "city_id": 1,
+        "name": "Baridhara",
+        "is_active": true,
+        "order": 20,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 21,
+        "city_id": 1,
+        "name": "Baridhara DOHS",
+        "is_active": true,
+        "order": 21,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 22,
+        "city_id": 1,
+        "name": "Bashabo",
+        "is_active": true,
+        "order": 22,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 23,
+        "city_id": 1,
+        "name": "Bashundhara R/A",
+        "is_active": true,
+        "order": 23,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 24,
+        "city_id": 1,
+        "name": "Bashundhara Riverview",
+        "is_active": true,
+        "order": 24,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 25,
+        "city_id": 1,
+        "name": "Baunia",
+        "is_active": true,
+        "order": 25,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 26,
+        "city_id": 1,
+        "name": "Begun Bari",
+        "is_active": true,
+        "order": 26,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 27,
+        "city_id": 1,
+        "name": "Bijoy Sarani",
+        "is_active": true,
+        "order": 27,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 28,
+        "city_id": 1,
+        "name": "Bijoynagar",
+        "is_active": true,
+        "order": 28,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 29,
+        "city_id": 1,
+        "name": "Bosila",
+        "is_active": true,
+        "order": 29,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 30,
+        "city_id": 1,
+        "name": "BUET Area",
+        "is_active": true,
+        "order": 30,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 31,
+        "city_id": 1,
+        "name": "Central Road",
+        "is_active": true,
+        "order": 31,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 32,
+        "city_id": 1,
+        "name": "Chandrima Model Town",
+        "is_active": true,
+        "order": 32,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 33,
+        "city_id": 1,
+        "name": "Chawk Bazar",
+        "is_active": true,
+        "order": 33,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 34,
+        "city_id": 1,
+        "name": "College Gate",
+        "is_active": true,
+        "order": 34,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 35,
+        "city_id": 1,
+        "name": "Darussalam",
+        "is_active": true,
+        "order": 35,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 36,
+        "city_id": 1,
+        "name": "Daskhin Khan",
+        "is_active": true,
+        "order": 36,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 37,
+        "city_id": 1,
+        "name": "Demra",
+        "is_active": true,
+        "order": 37,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 38,
+        "city_id": 1,
+        "name": "Dhaka Cantonment",
+        "is_active": true,
+        "order": 38,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 39,
+        "city_id": 1,
+        "name": "Dhaka Uddan Housing",
+        "is_active": true,
+        "order": 39,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 40,
+        "city_id": 1,
+        "name": "Dhaka University Area",
+        "is_active": true,
+        "order": 40,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 41,
+        "city_id": 1,
+        "name": "Dhanmondi",
+        "is_active": true,
+        "order": 41,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 42,
+        "city_id": 1,
+        "name": "Dholaikhal",
+        "is_active": true,
+        "order": 42,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 43,
+        "city_id": 1,
+        "name": "Dholaipar",
+        "is_active": true,
+        "order": 43,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 44,
+        "city_id": 1,
+        "name": "Diabari",
+        "is_active": true,
+        "order": 44,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 45,
+        "city_id": 1,
+        "name": "Dilkusha",
+        "is_active": true,
+        "order": 45,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 46,
+        "city_id": 1,
+        "name": "Dilu Road",
+        "is_active": true,
+        "order": 46,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 47,
+        "city_id": 1,
+        "name": "Doyagonj",
+        "is_active": true,
+        "order": 47,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 48,
+        "city_id": 1,
+        "name": "Eastern Housing",
+        "is_active": true,
+        "order": 48,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 49,
+        "city_id": 1,
+        "name": "ECB Chattar",
+        "is_active": true,
+        "order": 49,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 50,
+        "city_id": 1,
+        "name": "Elephant Road",
+        "is_active": true,
+        "order": 50,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 51,
+        "city_id": 1,
+        "name": "English Road",
+        "is_active": true,
+        "order": 51,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 52,
+        "city_id": 1,
+        "name": "Faidabad",
+        "is_active": true,
+        "order": 52,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 53,
+        "city_id": 1,
+        "name": "Faridabad",
+        "is_active": true,
+        "order": 53,
+        "created_at": "2026-02-01T11:23:28.000000Z",
+        "updated_at": "2026-02-01T11:23:28.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 54,
+        "city_id": 1,
+        "name": "Farmgate",
+        "is_active": true,
+        "order": 54,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 55,
+        "city_id": 1,
+        "name": "Fokirapul",
+        "is_active": true,
+        "order": 55,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 56,
+        "city_id": 1,
+        "name": "Gabtoli",
+        "is_active": true,
+        "order": 56,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 57,
+        "city_id": 1,
+        "name": "Gandaria",
+        "is_active": true,
+        "order": 57,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 58,
+        "city_id": 1,
+        "name": "Golapbag",
+        "is_active": true,
+        "order": 58,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 59,
+        "city_id": 1,
+        "name": "Gopibagh",
+        "is_active": true,
+        "order": 59,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 60,
+        "city_id": 1,
+        "name": "Goran",
+        "is_active": true,
+        "order": 60,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 61,
+        "city_id": 1,
+        "name": "Green Road",
+        "is_active": true,
+        "order": 61,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 62,
+        "city_id": 1,
+        "name": "Gulistan",
+        "is_active": true,
+        "order": 62,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 63,
+        "city_id": 1,
+        "name": "Gulshan-1",
+        "is_active": true,
+        "order": 63,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 64,
+        "city_id": 1,
+        "name": "Gulshan-2",
+        "is_active": true,
+        "order": 64,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 65,
+        "city_id": 1,
+        "name": "Hatirjheel",
+        "is_active": true,
+        "order": 65,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 66,
+        "city_id": 1,
+        "name": "Hatirpul",
+        "is_active": true,
+        "order": 66,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 67,
+        "city_id": 1,
+        "name": "Hazaribag",
+        "is_active": true,
+        "order": 67,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 68,
+        "city_id": 1,
+        "name": "Ibrahimpur",
+        "is_active": true,
+        "order": 68,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 69,
+        "city_id": 1,
+        "name": "Indira Road",
+        "is_active": true,
+        "order": 69,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 70,
+        "city_id": 1,
+        "name": "Jatrabari",
+        "is_active": true,
+        "order": 70,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 71,
+        "city_id": 1,
+        "name": "Joynag Road",
+        "is_active": true,
+        "order": 71,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 72,
+        "city_id": 1,
+        "name": "Jurain",
+        "is_active": true,
+        "order": 72,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 73,
+        "city_id": 1,
+        "name": "Kachukhet",
+        "is_active": true,
+        "order": 73,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 74,
+        "city_id": 1,
+        "name": "Kadamtoli",
+        "is_active": true,
+        "order": 74,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 75,
+        "city_id": 1,
+        "name": "Kafrul",
+        "is_active": true,
+        "order": 75,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 76,
+        "city_id": 1,
+        "name": "Kakrail",
+        "is_active": true,
+        "order": 76,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 77,
+        "city_id": 1,
+        "name": "Kalabagan",
+        "is_active": true,
+        "order": 77,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 78,
+        "city_id": 1,
+        "name": "Kalachandpur",
+        "is_active": true,
+        "order": 78,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 79,
+        "city_id": 1,
+        "name": "Kalshi",
+        "is_active": true,
+        "order": 79,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 80,
+        "city_id": 1,
+        "name": "Kamalapur",
+        "is_active": true,
+        "order": 80,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 81,
+        "city_id": 1,
+        "name": "Kamarpara",
+        "is_active": true,
+        "order": 81,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 82,
+        "city_id": 1,
+        "name": "Kamrangirchar",
+        "is_active": true,
+        "order": 82,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 83,
+        "city_id": 1,
+        "name": "Karwan Bazar",
+        "is_active": true,
+        "order": 83,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 84,
+        "city_id": 1,
+        "name": "Katabon",
+        "is_active": true,
+        "order": 84,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 85,
+        "city_id": 1,
+        "name": "Kathal Bagan",
+        "is_active": true,
+        "order": 85,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 86,
+        "city_id": 1,
+        "name": "Kawla",
+        "is_active": true,
+        "order": 86,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 87,
+        "city_id": 1,
+        "name": "Kazipara",
+        "is_active": true,
+        "order": 87,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 88,
+        "city_id": 1,
+        "name": "Kazla",
+        "is_active": true,
+        "order": 88,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 89,
+        "city_id": 1,
+        "name": "Keraniganj",
+        "is_active": true,
+        "order": 89,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 90,
+        "city_id": 1,
+        "name": "Khilgaon",
+        "is_active": true,
+        "order": 90,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 91,
+        "city_id": 1,
+        "name": "Khilkhet",
+        "is_active": true,
+        "order": 91,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 92,
+        "city_id": 1,
+        "name": "Kollanpur",
+        "is_active": true,
+        "order": 92,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 93,
+        "city_id": 1,
+        "name": "Kotwali",
+        "is_active": true,
+        "order": 93,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 94,
+        "city_id": 1,
+        "name": "Kuril",
+        "is_active": true,
+        "order": 94,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 95,
+        "city_id": 1,
+        "name": "Kurmitola",
+        "is_active": true,
+        "order": 95,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 96,
+        "city_id": 1,
+        "name": "Lake Circus Road",
+        "is_active": true,
+        "order": 96,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 97,
+        "city_id": 1,
+        "name": "Lalbag",
+        "is_active": true,
+        "order": 97,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 98,
+        "city_id": 1,
+        "name": "Lalmatia",
+        "is_active": true,
+        "order": 98,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 99,
+        "city_id": 1,
+        "name": "Lokkhi Bazar",
+        "is_active": true,
+        "order": 99,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 100,
+        "city_id": 1,
+        "name": "Malibagh",
+        "is_active": true,
+        "order": 100,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 101,
+        "city_id": 1,
+        "name": "Manikdi",
+        "is_active": true,
+        "order": 101,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 102,
+        "city_id": 1,
+        "name": "Maniknagar",
+        "is_active": true,
+        "order": 102,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 103,
+        "city_id": 1,
+        "name": "Matikata",
+        "is_active": true,
+        "order": 103,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 104,
+        "city_id": 1,
+        "name": "Matuail",
+        "is_active": true,
+        "order": 104,
+        "created_at": "2026-02-01T11:23:29.000000Z",
+        "updated_at": "2026-02-01T11:23:29.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 105,
+        "city_id": 1,
+        "name": "Mirpur 1",
+        "is_active": true,
+        "order": 105,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 106,
+        "city_id": 1,
+        "name": "Mirpur 2",
+        "is_active": true,
+        "order": 106,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 107,
+        "city_id": 1,
+        "name": "Mirpur 3",
+        "is_active": true,
+        "order": 107,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 108,
+        "city_id": 1,
+        "name": "Mirpur 6",
+        "is_active": true,
+        "order": 108,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 109,
+        "city_id": 1,
+        "name": "Mirpur 7",
+        "is_active": true,
+        "order": 109,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 110,
+        "city_id": 1,
+        "name": "Mirpur 10",
+        "is_active": true,
+        "order": 110,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 111,
+        "city_id": 1,
+        "name": "Mirpur 11",
+        "is_active": true,
+        "order": 111,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 112,
+        "city_id": 1,
+        "name": "Mirpur 12",
+        "is_active": true,
+        "order": 112,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 113,
+        "city_id": 1,
+        "name": "Mirpur 13",
+        "is_active": true,
+        "order": 113,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 114,
+        "city_id": 1,
+        "name": "Mirpur 14",
+        "is_active": true,
+        "order": 114,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 115,
+        "city_id": 1,
+        "name": "Mirpur Cantonment",
+        "is_active": true,
+        "order": 115,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 116,
+        "city_id": 1,
+        "name": "Mirpur DOHS",
+        "is_active": true,
+        "order": 116,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 117,
+        "city_id": 1,
+        "name": "Mitford Road",
+        "is_active": true,
+        "order": 117,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 118,
+        "city_id": 1,
+        "name": "Mogbazar",
+        "is_active": true,
+        "order": 118,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 119,
+        "city_id": 1,
+        "name": "Mohakhali",
+        "is_active": true,
+        "order": 119,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 120,
+        "city_id": 1,
+        "name": "Mohakhali DOHS",
+        "is_active": true,
+        "order": 120,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 121,
+        "city_id": 1,
+        "name": "Mohammadpur",
+        "is_active": true,
+        "order": 121,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 122,
+        "city_id": 1,
+        "name": "Mollartek",
+        "is_active": true,
+        "order": 122,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 123,
+        "city_id": 1,
+        "name": "Monipur",
+        "is_active": true,
+        "order": 123,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 124,
+        "city_id": 1,
+        "name": "Monipuri Para",
+        "is_active": true,
+        "order": 124,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 125,
+        "city_id": 1,
+        "name": "Motijheel",
+        "is_active": true,
+        "order": 125,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 126,
+        "city_id": 1,
+        "name": "Mouchak",
+        "is_active": true,
+        "order": 126,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 127,
+        "city_id": 1,
+        "name": "Mugda",
+        "is_active": true,
+        "order": 127,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 128,
+        "city_id": 1,
+        "name": "Nakhalpara",
+        "is_active": true,
+        "order": 128,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 129,
+        "city_id": 1,
+        "name": "Nandipara",
+        "is_active": true,
+        "order": 129,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 130,
+        "city_id": 1,
+        "name": "Narinda",
+        "is_active": true,
+        "order": 130,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 131,
+        "city_id": 1,
+        "name": "Natun Bazar",
+        "is_active": true,
+        "order": 131,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 132,
+        "city_id": 1,
+        "name": "Nawabpur",
+        "is_active": true,
+        "order": 132,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 133,
+        "city_id": 1,
+        "name": "Naya Bazar",
+        "is_active": true,
+        "order": 133,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 134,
+        "city_id": 1,
+        "name": "Naya Paltan",
+        "is_active": true,
+        "order": 134,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 135,
+        "city_id": 1,
+        "name": "New Eskaton Road",
+        "is_active": true,
+        "order": 135,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 136,
+        "city_id": 1,
+        "name": "New Market",
+        "is_active": true,
+        "order": 136,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 137,
+        "city_id": 1,
+        "name": "Niketon",
+        "is_active": true,
+        "order": 137,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 138,
+        "city_id": 1,
+        "name": "Nikunja-1",
+        "is_active": true,
+        "order": 138,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 139,
+        "city_id": 1,
+        "name": "Nikunja-2",
+        "is_active": true,
+        "order": 139,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 140,
+        "city_id": 1,
+        "name": "Nilkhet",
+        "is_active": true,
+        "order": 140,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 141,
+        "city_id": 1,
+        "name": "Nobabgonj",
+        "is_active": true,
+        "order": 141,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 142,
+        "city_id": 1,
+        "name": "Norda",
+        "is_active": true,
+        "order": 142,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 143,
+        "city_id": 1,
+        "name": "Paikpara",
+        "is_active": true,
+        "order": 143,
+        "created_at": "2026-02-01T11:23:30.000000Z",
+        "updated_at": "2026-02-01T11:23:30.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 144,
+        "city_id": 1,
+        "name": "Pallabi",
+        "is_active": true,
+        "order": 144,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 145,
+        "city_id": 1,
+        "name": "Paltan",
+        "is_active": true,
+        "order": 145,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 146,
+        "city_id": 1,
+        "name": "Panthapath",
+        "is_active": true,
+        "order": 146,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 147,
+        "city_id": 1,
+        "name": "Paribag",
+        "is_active": true,
+        "order": 147,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 148,
+        "city_id": 1,
+        "name": "Pilkhana",
+        "is_active": true,
+        "order": 148,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 149,
+        "city_id": 1,
+        "name": "Pink City Model Town",
+        "is_active": true,
+        "order": 149,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 150,
+        "city_id": 1,
+        "name": "Pirerbag",
+        "is_active": true,
+        "order": 150,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 151,
+        "city_id": 1,
+        "name": "Postogola",
+        "is_active": true,
+        "order": 151,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 152,
+        "city_id": 1,
+        "name": "Puran Dhaka",
+        "is_active": true,
+        "order": 152,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 153,
+        "city_id": 1,
+        "name": "Purana Paltan",
+        "is_active": true,
+        "order": 153,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 154,
+        "city_id": 1,
+        "name": "Ramna",
+        "is_active": true,
+        "order": 154,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 155,
+        "city_id": 1,
+        "name": "Rampura",
+        "is_active": true,
+        "order": 155,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 156,
+        "city_id": 1,
+        "name": "Ranavola",
+        "is_active": true,
+        "order": 156,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 157,
+        "city_id": 1,
+        "name": "Rayer Bazar",
+        "is_active": true,
+        "order": 157,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 158,
+        "city_id": 1,
+        "name": "Rayerbag",
+        "is_active": true,
+        "order": 158,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 159,
+        "city_id": 1,
+        "name": "Razarbagh",
+        "is_active": true,
+        "order": 159,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 160,
+        "city_id": 1,
+        "name": "Rupnagar",
+        "is_active": true,
+        "order": 160,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 161,
+        "city_id": 1,
+        "name": "Sabujbag",
+        "is_active": true,
+        "order": 161,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 162,
+        "city_id": 1,
+        "name": "Sadarghat",
+        "is_active": true,
+        "order": 162,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 163,
+        "city_id": 1,
+        "name": "Sankar",
+        "is_active": true,
+        "order": 163,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 164,
+        "city_id": 1,
+        "name": "Sayedabad",
+        "is_active": true,
+        "order": 164,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 165,
+        "city_id": 1,
+        "name": "Segunbagicha",
+        "is_active": true,
+        "order": 165,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 166,
+        "city_id": 1,
+        "name": "Shahbag",
+        "is_active": true,
+        "order": 166,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 167,
+        "city_id": 1,
+        "name": "Shahinbag",
+        "is_active": true,
+        "order": 167,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 168,
+        "city_id": 1,
+        "name": "Shahjadpur",
+        "is_active": true,
+        "order": 168,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 169,
+        "city_id": 1,
+        "name": "Shajahanpur",
+        "is_active": true,
+        "order": 169,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 170,
+        "city_id": 1,
+        "name": "Shantibag",
+        "is_active": true,
+        "order": 170,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 171,
+        "city_id": 1,
+        "name": "Shantinagar",
+        "is_active": true,
+        "order": 171,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 172,
+        "city_id": 1,
+        "name": "Shekhertek",
+        "is_active": true,
+        "order": 172,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 173,
+        "city_id": 1,
+        "name": "Sher-e-Bangla Nagor",
+        "is_active": true,
+        "order": 173,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 174,
+        "city_id": 1,
+        "name": "Shewra",
+        "is_active": true,
+        "order": 174,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 175,
+        "city_id": 1,
+        "name": "Shewrapara",
+        "is_active": true,
+        "order": 175,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 176,
+        "city_id": 1,
+        "name": "Shyamoli",
+        "is_active": true,
+        "order": 176,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 177,
+        "city_id": 1,
+        "name": "Shyampur",
+        "is_active": true,
+        "order": 177,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 178,
+        "city_id": 1,
+        "name": "Siddeshwari",
+        "is_active": true,
+        "order": 178,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 179,
+        "city_id": 1,
+        "name": "Sobahan Bag",
+        "is_active": true,
+        "order": 179,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 180,
+        "city_id": 1,
+        "name": "Sonir Akra",
+        "is_active": true,
+        "order": 180,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 181,
+        "city_id": 1,
+        "name": "South Banasree",
+        "is_active": true,
+        "order": 181,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 182,
+        "city_id": 1,
+        "name": "Sukrabad",
+        "is_active": true,
+        "order": 182,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 183,
+        "city_id": 1,
+        "name": "Sutrapur",
+        "is_active": true,
+        "order": 183,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 184,
+        "city_id": 1,
+        "name": "Swamibagh",
+        "is_active": true,
+        "order": 184,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 185,
+        "city_id": 1,
+        "name": "Tejgaon",
+        "is_active": true,
+        "order": 185,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 186,
+        "city_id": 1,
+        "name": "Tejkunipara",
+        "is_active": true,
+        "order": 186,
+        "created_at": "2026-02-01T11:23:31.000000Z",
+        "updated_at": "2026-02-01T11:23:31.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 187,
+        "city_id": 1,
+        "name": "Tikatuli",
+        "is_active": true,
+        "order": 187,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 188,
+        "city_id": 1,
+        "name": "Tolarbag",
+        "is_active": true,
+        "order": 188,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 189,
+        "city_id": 1,
+        "name": "Turag",
+        "is_active": true,
+        "order": 189,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 190,
+        "city_id": 1,
+        "name": "Uttar Khan",
+        "is_active": true,
+        "order": 190,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 191,
+        "city_id": 1,
+        "name": "Uttara Sector 1",
+        "is_active": true,
+        "order": 191,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 192,
+        "city_id": 1,
+        "name": "Uttara Sector 2",
+        "is_active": true,
+        "order": 192,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 193,
+        "city_id": 1,
+        "name": "Uttara Sector 3",
+        "is_active": true,
+        "order": 193,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 194,
+        "city_id": 1,
+        "name": "Uttara Sector 4",
+        "is_active": true,
+        "order": 194,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 195,
+        "city_id": 1,
+        "name": "Uttara Sector 5",
+        "is_active": true,
+        "order": 195,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 196,
+        "city_id": 1,
+        "name": "Uttara Sector 6",
+        "is_active": true,
+        "order": 196,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 197,
+        "city_id": 1,
+        "name": "Uttara Sector 7",
+        "is_active": true,
+        "order": 197,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 198,
+        "city_id": 1,
+        "name": "Uttara Sector 8",
+        "is_active": true,
+        "order": 198,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 199,
+        "city_id": 1,
+        "name": "Uttara Sector 9",
+        "is_active": true,
+        "order": 199,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 200,
+        "city_id": 1,
+        "name": "Uttara Sector 10",
+        "is_active": true,
+        "order": 200,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 201,
+        "city_id": 1,
+        "name": "Uttara Sector 11",
+        "is_active": true,
+        "order": 201,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 202,
+        "city_id": 1,
+        "name": "Uttara Sector 12",
+        "is_active": true,
+        "order": 202,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 203,
+        "city_id": 1,
+        "name": "Uttara Sector 13",
+        "is_active": true,
+        "order": 203,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 204,
+        "city_id": 1,
+        "name": "Uttara Sector 14",
+        "is_active": true,
+        "order": 204,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 205,
+        "city_id": 1,
+        "name": "Uttara Sector 15",
+        "is_active": true,
+        "order": 205,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 206,
+        "city_id": 1,
+        "name": "Uttara Sector 16",
+        "is_active": true,
+        "order": 206,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 207,
+        "city_id": 1,
+        "name": "Uttara Sector 17",
+        "is_active": true,
+        "order": 207,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 208,
+        "city_id": 1,
+        "name": "Uttara Sector 18",
+        "is_active": true,
+        "order": 208,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 209,
+        "city_id": 1,
+        "name": "Vasantek",
+        "is_active": true,
+        "order": 209,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 210,
+        "city_id": 1,
+        "name": "Vatara",
+        "is_active": true,
+        "order": 210,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 211,
+        "city_id": 1,
+        "name": "Wari",
+        "is_active": true,
+        "order": 211,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 212,
+        "city_id": 1,
+        "name": "West Rampura",
+        "is_active": true,
+        "order": 212,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 213,
+        "city_id": 1,
+        "name": "Zigatola",
+        "is_active": true,
+        "order": 213,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+      {
+        "id": 214,
+        "city_id": 1,
+        "name": "Zinzira",
+        "is_active": true,
+        "order": 214,
+        "created_at": "2026-02-01T11:23:32.000000Z",
+        "updated_at": "2026-02-01T11:23:32.000000Z",
+        "city": {
+          "id": 1,
+          "country_id": 1,
+          "name": "Dhaka",
+          "is_active": true,
+          "order": 1,
+          "created_at": "2026-02-01T11:23:28.000000Z",
+          "updated_at": "2026-03-26T17:50:32.000000Z"
+        }
+      },
+
+    
+    ]
+    
+  
+}

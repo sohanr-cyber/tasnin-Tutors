@@ -4,7 +4,76 @@ import mongoose from 'mongoose'
 import crypto from 'crypto'
 import { storage } from '@/database/firebase'
 import { deleteObject, ref } from '@firebase/storage'
+import axios from "axios";
 
+ const buildLocationFromCoords = async (lat, lng) => {
+  const { data } = await axios.get(
+    "https://maps.googleapis.com/maps/api/geocode/json",
+    {
+      params: {
+        latlng: `${lat},${lng}`,
+        key: "AIzaSyC-RFV9uSyN3xiACUzFm2nfM9mnU2i69g0",
+      },
+    }
+  );
+
+  if (!data.results?.length) return null;
+
+  const result = data.results[0];
+  const components = result.address_components;
+
+  let country = "";
+  let division = "";
+  let district = "";
+  let city = "";
+  let area = "";
+
+  const neighbourhoods = [];
+
+  components.forEach((c) => {
+    if (c.types.includes("country")) {
+      country = c.long_name;
+    }
+
+    if (c.types.includes("administrative_area_level_1")) {
+      division = c.long_name;
+    }
+
+    if (c.types.includes("administrative_area_level_2")) {
+      district = c.long_name;
+    }
+
+    if (c.types.includes("locality")) {
+      city = c.long_name;
+    }
+
+    if (
+      c.types.includes("sublocality_level_1") ||
+      c.types.includes("sublocality")
+    ) {
+      area = c.long_name;
+      neighbourhoods.push(c.long_name);
+    }
+
+    if (c.types.includes("neighborhood")) {
+      neighbourhoods.push(c.long_name);
+    }
+  });
+
+  return {
+    formattedAddress: result.formatted_address,
+    country,
+    division,
+    district,
+    city,
+    area,
+    neighbourhoods,
+    coordinates: {
+      type: "Point",
+      coordinates: [parseFloat(lng), parseFloat(lat)],
+    },
+  };
+};
 function generateTrackingNumber(length = 10) {
   const characters =
     'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
@@ -412,6 +481,7 @@ export {
   hexToRgba,
   calculateAverageRating,
   calculateDistance,
-  fetchPlaceName
+  fetchPlaceName,
+  buildLocationFromCoords
 
 }

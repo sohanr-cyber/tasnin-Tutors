@@ -4,11 +4,14 @@ import Logo from '@/components/Utility/Logo'
 import Link from 'next/link'
 import axios from 'axios'
 import { useRouter } from 'next/router'
-import { useDispatch } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 import { showSnackBar } from '@/redux/notistackSlice'
 import { NextSeo } from 'next-seo'
 import { hireTutorSeoData, loginSeoData, tutorRegistrationSeoData } from '@/utility/const'
 import { finishLoading, startLoading } from '@/redux/stateSlice'
+import MapPicker from '@/components/Utility/MapPicker'
+import ToggleLocation from '@/components/Utility/ToggleLocation'
+import Upload from '@/components/Utility/Upload'
 
 const STORAGE_KEY = 'tutor_registration_draft'
 
@@ -51,6 +54,7 @@ const Login = () => {
 
     const router = useRouter()
     const dispatch = useDispatch()
+    const location = useSelector(state => state.user.location)
 
     // Load saved draft
     useEffect(() => {
@@ -95,8 +99,16 @@ const Login = () => {
         try {
             dispatch(startLoading())
 
-            const { data } = await axios.post('/api/tutor/register', {
-                ...user
+            const { data } = await axios.post('/api/tutor', {
+                ...user,  // 🔥 convert frontend location → backend format
+                location: location.lat
+                    ? {
+                        coordinates: [
+                            location.lng,
+                            location.lat
+                        ]
+                    }
+                    : null
             })
 
             if (!data.error && data.success) {
@@ -238,6 +250,12 @@ const Login = () => {
                                 })
                             }
                         />
+                        <label>University ID Card</label>
+                        <Upload handle={(file) => { 
+                            setUser({
+                                ...user , studentId:file.url
+                            })
+                        }} />
 
                         <label>SSC স্কুল</label>
                         <input
@@ -383,17 +401,7 @@ const Login = () => {
                             }
                         />
 
-                        <label>কোন এলাকায় পড়াতে চান?</label>
-                        <input
-                            value={user.preferredArea || ''}
-                            placeholder="Dhanmondi / Mirpur / Uttara"
-                            onChange={(e) =>
-                                setUser({
-                                    ...user,
-                                    preferredArea: e.target.value
-                                })
-                            }
-                        />
+
 
                         <label>প্রত্যাশিত সম্মানী</label>
                         <input
@@ -427,6 +435,42 @@ const Login = () => {
                                 setUser({
                                     ...user,
                                     experience: e.target.value
+                                })
+                            }
+                        />
+                        <label>কোন এলাকায় ?</label>
+                        <div > <ToggleLocation text="আমার বর্তমান অবস্থান ব্যবহার করুন " style={{
+                            display: "flex",
+                            flexDirection: "row-reverse",
+                            alignItems: "center",
+                            justifyContent: "flex-end",
+                            gap: "8px",
+                            background: "linear-gradient(90deg, #4285F4, #34A853, #FBBC05, #EA4335)",
+                            borderRadius: "10px",
+                            padding: "10px 16px",
+                            cursor: "pointer",
+                            color: "#fff",
+                            fontWeight: "600",
+                            boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
+                            transition: "0.2s ease",
+
+                        }} /> </div>
+
+                        {/* {location?.lat && (
+                            <span style={{ marginTop: "1px", fontSize: "12px", color: "#555" }}>
+                                📍 Selected Location: {location.lat.toFixed(4)}, {location.lng.toFixed(4)}
+                            </span>
+                        )} */}
+
+
+                        <label>কোন এলাকায় পড়াতে চান?</label>
+                        <input
+                            value={user.preferredArea || ''}
+                            placeholder="Dhanmondi / Mirpur / Uttara"
+                            onChange={(e) =>
+                                setUser({
+                                    ...user,
+                                    preferredArea: e.target.value
                                 })
                             }
                         />

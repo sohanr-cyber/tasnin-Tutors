@@ -1,0 +1,5840 @@
+{
+  "Dhaka": [
+    {
+      "id": 963,
+      "name": "Chandrima Udyan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 964,
+      "name": "Chankharpul",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 967,
+      "name": "Dakshin Khan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 968,
+      "name": "Moddho Badda",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 969,
+      "name": "Dakkhin Banasree",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 970,
+      "name": "Poschim Malibagh",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 971,
+      "name": "Uttara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 974,
+      "name": "Shegunbagicha",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 975,
+      "name": "Bongshal",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 976,
+      "name": "Uttar Badda",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 979,
+      "name": "West Shewrapara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 980,
+      "name": "Damra",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 951,
+      "name": "Mirpur 60-Feet",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 2,
+      "name": "Adabor",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 953,
+      "name": "Kallyanpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 3,
+      "name": "Aftabnagar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 952,
+      "name": "Mirpur 15",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 4,
+      "name": "Agargaon",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 5,
+      "name": "Airport Area",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 6,
+      "name": "Arambagh",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 7,
+      "name": "Armanitola",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 8,
+      "name": "Asad Gate",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 1,
+      "name": "Abdullahpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 9,
+      "name": "Ashkona",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 10,
+      "name": "Azampur Kachabazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 11,
+      "name": "Azimpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 12,
+      "name": "Badda",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 13,
+      "name": "Baily Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 14,
+      "name": "Bakshi Bazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 15,
+      "name": "Banani",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 16,
+      "name": "Banani DOHS",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 17,
+      "name": "Banasree",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 18,
+      "name": "Bangla Motor",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 19,
+      "name": "Bangshal",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 20,
+      "name": "Baridhara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 21,
+      "name": "Baridhara DOHS",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 22,
+      "name": "Bashabo",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 23,
+      "name": "Bashundhara R/A",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 24,
+      "name": "Bashundhara Riverview",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 25,
+      "name": "Baunia",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 26,
+      "name": "Begun Bari",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 27,
+      "name": "Bijoy Sarani",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 28,
+      "name": "Bijoynagar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 29,
+      "name": "Bosila",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 30,
+      "name": "BUET Area",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 31,
+      "name": "Central Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 32,
+      "name": "Chandrima Model Town",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 33,
+      "name": "Chawk Bazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 34,
+      "name": "College Gate",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 35,
+      "name": "Darussalam",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 36,
+      "name": "Daskhin Khan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 37,
+      "name": "Demra",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 38,
+      "name": "Dhaka Cantonment",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 39,
+      "name": "Dhaka Uddan Housing",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 40,
+      "name": "Dhaka University Area",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 41,
+      "name": "Dhanmondi",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 42,
+      "name": "Dholaikhal",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 43,
+      "name": "Dholaipar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 44,
+      "name": "Diabari",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 45,
+      "name": "Dilkusha",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 46,
+      "name": "Dilu Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 47,
+      "name": "Doyagonj",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 48,
+      "name": "Eastern Housing",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 49,
+      "name": "ECB Chattar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 50,
+      "name": "Elephant Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 51,
+      "name": "English Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 52,
+      "name": "Faidabad",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 53,
+      "name": "Faridabad",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 54,
+      "name": "Farmgate",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 55,
+      "name": "Fokirapul",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 56,
+      "name": "Gabtoli",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 57,
+      "name": "Gandaria",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 58,
+      "name": "Golapbag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 59,
+      "name": "Gopibagh",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 60,
+      "name": "Goran",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 61,
+      "name": "Green Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 62,
+      "name": "Gulistan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 63,
+      "name": "Gulshan-1",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 64,
+      "name": "Gulshan-2",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 65,
+      "name": "Hatirjheel",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 66,
+      "name": "Hatirpul",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 67,
+      "name": "Hazaribag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 68,
+      "name": "Ibrahimpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 69,
+      "name": "Indira Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 70,
+      "name": "Jatrabari",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 71,
+      "name": "Joynag Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 72,
+      "name": "Jurain",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 73,
+      "name": "Kachukhet",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 74,
+      "name": "Kadamtoli",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 75,
+      "name": "Kafrul",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 76,
+      "name": "Kakrail",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 77,
+      "name": "Kalabagan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 78,
+      "name": "Kalachandpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 79,
+      "name": "Kalshi",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 80,
+      "name": "Kamalapur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 81,
+      "name": "Kamarpara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 82,
+      "name": "Kamrangirchar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 83,
+      "name": "Karwan Bazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 84,
+      "name": "Katabon",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 85,
+      "name": "Kathal Bagan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 86,
+      "name": "Kawla",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 87,
+      "name": "Kazipara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 88,
+      "name": "Kazla",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 89,
+      "name": "Keraniganj",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 90,
+      "name": "Khilgaon",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 91,
+      "name": "Khilkhet",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 92,
+      "name": "Kollanpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 93,
+      "name": "Kotwali",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 94,
+      "name": "Kuril",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 95,
+      "name": "Kurmitola",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 96,
+      "name": "Lake Circus Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 97,
+      "name": "Lalbag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 98,
+      "name": "Lalmatia",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 99,
+      "name": "Lokkhi Bazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 100,
+      "name": "Malibagh",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 101,
+      "name": "Manikdi",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 102,
+      "name": "Maniknagar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 103,
+      "name": "Matikata",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 104,
+      "name": "Matuail",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 105,
+      "name": "Mirpur 1",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 106,
+      "name": "Mirpur 2",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 107,
+      "name": "Mirpur 3",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 108,
+      "name": "Mirpur 6",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 109,
+      "name": "Mirpur 7",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 110,
+      "name": "Mirpur 10",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 111,
+      "name": "Mirpur 11",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 112,
+      "name": "Mirpur 12",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 113,
+      "name": "Mirpur 13",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 114,
+      "name": "Mirpur 14",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 115,
+      "name": "Mirpur Cantonment",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 116,
+      "name": "Mirpur DOHS",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 117,
+      "name": "Mitford Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 118,
+      "name": "Mogbazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 119,
+      "name": "Mohakhali",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 120,
+      "name": "Mohakhali DOHS",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 121,
+      "name": "Mohammadpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 122,
+      "name": "Mollartek",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 123,
+      "name": "Monipur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 124,
+      "name": "Monipuri Para",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 125,
+      "name": "Motijheel",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 126,
+      "name": "Mouchak",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 127,
+      "name": "Mugda",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 128,
+      "name": "Nakhalpara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 129,
+      "name": "Nandipara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 130,
+      "name": "Narinda",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 131,
+      "name": "Natun Bazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 132,
+      "name": "Nawabpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 133,
+      "name": "Naya Bazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 134,
+      "name": "Naya Paltan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 135,
+      "name": "New Eskaton Road",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 136,
+      "name": "New Market",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 137,
+      "name": "Niketon",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 138,
+      "name": "Nikunja-1",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 139,
+      "name": "Nikunja-2",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 140,
+      "name": "Nilkhet",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 141,
+      "name": "Nobabgonj",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 142,
+      "name": "Norda",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 143,
+      "name": "Paikpara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 144,
+      "name": "Pallabi",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 145,
+      "name": "Paltan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 146,
+      "name": "Panthapath",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 147,
+      "name": "Paribag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 148,
+      "name": "Pilkhana",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 149,
+      "name": "Pink City Model Town",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 150,
+      "name": "Pirerbag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 151,
+      "name": "Postogola",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 152,
+      "name": "Puran Dhaka",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 153,
+      "name": "Purana Paltan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 154,
+      "name": "Ramna",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 155,
+      "name": "Rampura",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 156,
+      "name": "Ranavola",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 157,
+      "name": "Rayer Bazar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 158,
+      "name": "Rayerbag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 159,
+      "name": "Razarbagh",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 160,
+      "name": "Rupnagar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 161,
+      "name": "Sabujbag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 162,
+      "name": "Sadarghat",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 163,
+      "name": "Sankar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 164,
+      "name": "Sayedabad",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 165,
+      "name": "Segunbagicha",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 166,
+      "name": "Shahbag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 167,
+      "name": "Shahinbag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 168,
+      "name": "Shahjadpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 169,
+      "name": "Shajahanpur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 170,
+      "name": "Shantibag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 171,
+      "name": "Shantinagar",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 172,
+      "name": "Shekhertek",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 173,
+      "name": "Sher-e-Bangla Nagor",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 174,
+      "name": "Shewra",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 175,
+      "name": "Shewrapara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 176,
+      "name": "Shyamoli",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 177,
+      "name": "Shyampur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 178,
+      "name": "Siddeshwari",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 179,
+      "name": "Sobahan Bag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 180,
+      "name": "Sonir Akra",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 181,
+      "name": "South Banasree",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 182,
+      "name": "Sukrabad",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 183,
+      "name": "Sutrapur",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 184,
+      "name": "Swamibagh",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 185,
+      "name": "Tejgaon",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 186,
+      "name": "Tejkunipara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 187,
+      "name": "Tikatuli",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 188,
+      "name": "Tolarbag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 189,
+      "name": "Turag",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 190,
+      "name": "Uttar Khan",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 191,
+      "name": "Uttara Sector 1",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 192,
+      "name": "Uttara Sector 2",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 193,
+      "name": "Uttara Sector 3",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 194,
+      "name": "Uttara Sector 4",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 195,
+      "name": "Uttara Sector 5",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 196,
+      "name": "Uttara Sector 6",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 197,
+      "name": "Uttara Sector 7",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 198,
+      "name": "Uttara Sector 8",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 199,
+      "name": "Uttara Sector 9",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 200,
+      "name": "Uttara Sector 10",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 201,
+      "name": "Uttara Sector 11",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 202,
+      "name": "Uttara Sector 12",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 203,
+      "name": "Uttara Sector 13",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 204,
+      "name": "Uttara Sector 14",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 205,
+      "name": "Uttara Sector 15",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 206,
+      "name": "Uttara Sector 16",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 207,
+      "name": "Uttara Sector 17",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 208,
+      "name": "Uttara Sector 18",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 209,
+      "name": "Vasantek",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 210,
+      "name": "Vatara",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 211,
+      "name": "Wari",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 212,
+      "name": "West Rampura",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 213,
+      "name": "Zigatola",
+      "city_id": 1,
+      "city": "Dhaka"
+    },
+    {
+      "id": 214,
+      "name": "Zinzira",
+      "city_id": 1,
+      "city": "Dhaka"
+    }
+  ],
+  "Chattogram": [
+    {
+      "id": 216,
+      "name": "2 No. Gate",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 217,
+      "name": "A.K Khan CRP",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 218,
+      "name": "Agrabad",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 215,
+      "name": "New Mooring",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 219,
+      "name": "Agrabad Access Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 220,
+      "name": "Agrabad Barek Building",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 221,
+      "name": "Chowmuhani Bus Stand",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 222,
+      "name": "Akbarshah Railway Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 223,
+      "name": "Ali Nagar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 224,
+      "name": "Alkaran",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 225,
+      "name": "Aman Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 226,
+      "name": "Amirbag Residential Area",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 227,
+      "name": "Amtala",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 228,
+      "name": "Andar Killa",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 229,
+      "name": "Arakan H/S",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 230,
+      "name": "Arefin Nagar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 231,
+      "name": "Ashkar Dighir Par",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 232,
+      "name": "Avay Mitra Ghat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 233,
+      "name": "Badurtala",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 234,
+      "name": "Bahaddarhat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 235,
+      "name": "Baitush Sharaf",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 236,
+      "name": "Bakalia East",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 237,
+      "name": "Bakalia South",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 238,
+      "name": "Bakalia West",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 239,
+      "name": "Baluchara",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 240,
+      "name": "Banani R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 241,
+      "name": "Bandar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 242,
+      "name": "Bangladesh Bank Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 243,
+      "name": "Batali Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 244,
+      "name": "Bayazid Bostami",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 245,
+      "name": "Bepari Para",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 246,
+      "name": "Bibirhat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 247,
+      "name": "Bondor Tila",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 248,
+      "name": "Boropool",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 249,
+      "name": "Bow Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 250,
+      "name": "Boxirhat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 251,
+      "name": "Burischar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 252,
+      "name": "Burma Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 253,
+      "name": "Cantonment",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 254,
+      "name": "CDA Residential Area",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 255,
+      "name": "Cement Crossing",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 256,
+      "name": "CEPZ",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 257,
+      "name": "Chaitanna Goli",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 258,
+      "name": "Chaktai",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 259,
+      "name": "Chandgaon",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 260,
+      "name": "Chandgaon R/A, Block A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 261,
+      "name": "Chandgaon R/A, Block B",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 262,
+      "name": "Chandrima",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 263,
+      "name": "Chasma Hill R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 264,
+      "name": "Chatteswari Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 265,
+      "name": "Chawk Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 266,
+      "name": "Chowdhury Para",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 267,
+      "name": "Cinema Palace",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 268,
+      "name": "City Gate",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 269,
+      "name": "CNB",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 270,
+      "name": "CNB Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 271,
+      "name": "Colonel Hat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 272,
+      "name": "Cosmopolitan R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 273,
+      "name": "CRB Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 274,
+      "name": "D.T. Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 275,
+      "name": "Dakshin Kattali",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 276,
+      "name": "Dampara",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 277,
+      "name": "Darogha Hat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 278,
+      "name": "DC Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 279,
+      "name": "Debar Par",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 280,
+      "name": "Dewan Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 281,
+      "name": "Dewanhat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 282,
+      "name": "Double Mooring",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 283,
+      "name": "Enayet Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 284,
+      "name": "Farider Para",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 285,
+      "name": "Fatehabad",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 286,
+      "name": "Firingi Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 287,
+      "name": "Firozshah Minar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 288,
+      "name": "Pre Port",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 289,
+      "name": "Gani Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 290,
+      "name": "GEC Circle",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 291,
+      "name": "Gol Pahar Moor",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 292,
+      "name": "Halishahar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 293,
+      "name": "Halishahar, Block A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 294,
+      "name": "Halishahar, Block B",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 295,
+      "name": "Halishahar, Block G",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 296,
+      "name": "Halishahar, Block H",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 297,
+      "name": "Halishahar, Block I",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 298,
+      "name": "Halishahar, Block K",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 299,
+      "name": "Halishahar, Block L",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 300,
+      "name": "Hamjarbag",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 301,
+      "name": "Hashem Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 302,
+      "name": "Hathazari",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 303,
+      "name": "Hazipara",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 304,
+      "name": "Hill View R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 305,
+      "name": "Ice Factory Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 306,
+      "name": "Ishan Mistrir Hat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 307,
+      "name": "Jalalabad H/S",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 308,
+      "name": "Jamal Khan",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 309,
+      "name": "Jangalpara",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 310,
+      "name": "Jhautola",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 311,
+      "name": "Jubilee Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 312,
+      "name": "Kadamtali",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 313,
+      "name": "Kafco Housing colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 314,
+      "name": "Kalamia Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 315,
+      "name": "Kalurghat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 316,
+      "name": "East Madar Bari",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 317,
+      "name": "Kanon Dhara H/S",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 318,
+      "name": "Kapasgola",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 319,
+      "name": "Kaptai Rastar Matha",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 320,
+      "name": "Kata Pahar Lane",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 321,
+      "name": "Katalgonj R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 322,
+      "name": "Kazir Dewri",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 323,
+      "name": "Khatiber Hat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 324,
+      "name": "Khulshi Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 325,
+      "name": "Khulshi South",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 326,
+      "name": "Khulshi West",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 327,
+      "name": "Kotwali",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 328,
+      "name": "Kulgaon",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 329,
+      "name": "Kunjachaya R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 330,
+      "name": "Laldighir Par",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 331,
+      "name": "Lalkhan Bazar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 332,
+      "name": "Loharpool",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 333,
+      "name": "Love Lane",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 334,
+      "name": "M. A Aziz Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 335,
+      "name": "West Madar Bari",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 336,
+      "name": "Madarbari West",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 337,
+      "name": "Majhir Ghat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 338,
+      "name": "Mehedibag",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 339,
+      "name": "Mistripara",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 340,
+      "name": "Mohammad Nagar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 341,
+      "name": "Mohammadpur",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 342,
+      "name": "Momin Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 343,
+      "name": "Monsurabad",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 344,
+      "name": "Mosjid Goli",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 345,
+      "name": "Moti Jharna",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 346,
+      "name": "Mousumi R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 347,
+      "name": "Muradpur",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 348,
+      "name": "Nabi Nagar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 349,
+      "name": "North Nalapara",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 350,
+      "name": "Nandon Kanon",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 351,
+      "name": "Nasirabad",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 352,
+      "name": "Nasirabad H/S",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 353,
+      "name": "Nazir Para",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 354,
+      "name": "Nazu Meah Lane",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 355,
+      "name": "New Market",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 356,
+      "name": "North Kattali",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 357,
+      "name": "O.R. Nizam Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 358,
+      "name": "Oxygen",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 359,
+      "name": "Pahartali",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 360,
+      "name": "Panchlaish R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 361,
+      "name": "Patenga",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 362,
+      "name": "Pathantuli",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 363,
+      "name": "Patharghata",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 364,
+      "name": "Polytechnic",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 365,
+      "name": "Port Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 366,
+      "name": "Postarpar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 367,
+      "name": "Probortok Circle",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 368,
+      "name": "Quaish",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 369,
+      "name": "Rahatarpul",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 370,
+      "name": "Rahman Nagar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 371,
+      "name": "Ruby Gate",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 372,
+      "name": "Sadarghat",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 373,
+      "name": "Sagorika",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 374,
+      "name": "Santibag R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 375,
+      "name": "Saraipara",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 376,
+      "name": "Sat Rastar Matha",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 377,
+      "name": "Shah Garibullah H/S",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 378,
+      "name": "Shamoli R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 379,
+      "name": "Sheikh Mujib Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 380,
+      "name": "Shershah Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 381,
+      "name": "Sholokbahar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 382,
+      "name": "Sholoshohor",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 383,
+      "name": "South Kattali",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 384,
+      "name": "Station Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 385,
+      "name": "Strand Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 386,
+      "name": "Sugandha R/A",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 387,
+      "name": "Surson Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 388,
+      "name": "Tankey Pahar",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 389,
+      "name": "Tiger Pass",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 390,
+      "name": "Tin Puler Matha",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 391,
+      "name": "Textile More",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 392,
+      "name": "Urdo Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 393,
+      "name": "Wapda Colony",
+      "city_id": 2,
+      "city": "Chattogram"
+    },
+    {
+      "id": 394,
+      "name": "Zakir Hossain Road",
+      "city_id": 2,
+      "city": "Chattogram"
+    }
+  ],
+  "Gazipur": [
+    {
+      "id": 397,
+      "name": "Boro Bari",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 395,
+      "name": "B.I.D.C Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 398,
+      "name": "Boro Dewra",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 399,
+      "name": "Bypass",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 400,
+      "name": "Bhadun",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 401,
+      "name": "Chandona Chowrasta",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 402,
+      "name": "Cherag Ali Market",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 403,
+      "name": "College Gate",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 404,
+      "name": "Dhirasram Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 405,
+      "name": "Ershad Nagar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 406,
+      "name": "Gazipur Sadar Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 407,
+      "name": "Gazipura",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 408,
+      "name": "Harbaid Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 409,
+      "name": "Hossain Market",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 410,
+      "name": "Joydebpur",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 396,
+      "name": "Board Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 411,
+      "name": "Kashimpur Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 412,
+      "name": "Kodda Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 413,
+      "name": "Konabari Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 414,
+      "name": "Majukhan Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 415,
+      "name": "Maleker Bari",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 416,
+      "name": "Meghdubi Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 417,
+      "name": "Mil Gate",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 418,
+      "name": "Mirer Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 419,
+      "name": "Mudafa",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 420,
+      "name": "National University Area",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 421,
+      "name": "Pubail Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 422,
+      "name": "Pubail College Gate",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 423,
+      "name": "Rajendrapur Cantonment",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 424,
+      "name": "Sataish Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 425,
+      "name": "Shalna Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 426,
+      "name": "Shib Bari",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 427,
+      "name": "Shimultali Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 428,
+      "name": "Sign Board",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 429,
+      "name": "Station Road",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 430,
+      "name": "Takshal",
+      "city_id": 3,
+      "city": "Gazipur"
+    },
+    {
+      "id": 431,
+      "name": "Tongi Bazar",
+      "city_id": 3,
+      "city": "Gazipur"
+    }
+  ],
+  "Narayonganj": [
+    {
+      "id": 978,
+      "name": "300 Feet",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 434,
+      "name": "B.B. Road",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 435,
+      "name": "Bandar",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 436,
+      "name": "Borofkol",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 437,
+      "name": "Burir Dokan",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 432,
+      "name": "02 No. Rail Gate",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 438,
+      "name": "Chanmari",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 439,
+      "name": "Chashara",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 440,
+      "name": "Chittagong Road",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 441,
+      "name": "College Road",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 442,
+      "name": "Deobhog",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 443,
+      "name": "DIT Road",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 444,
+      "name": "Don Chamber",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 445,
+      "name": "Esa Kha Road",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 446,
+      "name": "Fatullah",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 447,
+      "name": "Gabtoli",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 433,
+      "name": "Amlapara",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 448,
+      "name": "Godnail",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 449,
+      "name": "Golachipa",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 450,
+      "name": "Gymkhana",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 451,
+      "name": "Jalkuri",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 452,
+      "name": "Jamtola Road",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 453,
+      "name": "Kali Bazar",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 454,
+      "name": "Khanpur",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 455,
+      "name": "Masdair Gorosthan",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 456,
+      "name": "Mission Para",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 457,
+      "name": "Mizmizi",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 458,
+      "name": "Nitaiganj",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 459,
+      "name": "Octo Office",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 460,
+      "name": "Pagla",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 461,
+      "name": "Paikpara",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 462,
+      "name": "Pathantuli",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 463,
+      "name": "Police Line",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 464,
+      "name": "Ponchoboti",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 465,
+      "name": "Rupayan Town",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 466,
+      "name": "Sabujbag",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 467,
+      "name": "Shahid Bappi Sarani Road",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 468,
+      "name": "Shitalakshya",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 469,
+      "name": "Siddhirganj",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 470,
+      "name": "Signboard",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 471,
+      "name": "Tamak Potti",
+      "city_id": 4,
+      "city": "Narayonganj"
+    },
+    {
+      "id": 472,
+      "name": "Ukil Para",
+      "city_id": 4,
+      "city": "Narayonganj"
+    }
+  ],
+  "Khulna": [
+    {
+      "id": 474,
+      "name": "Toot Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 475,
+      "name": "Alam Nagar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 476,
+      "name": "Alutala",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 477,
+      "name": "Baiti Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 478,
+      "name": "Banargati",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 479,
+      "name": "Banda",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 480,
+      "name": "Binoy Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 481,
+      "name": "Brajalal College",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 482,
+      "name": "Bonik Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 473,
+      "name": "PTI More",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 483,
+      "name": "Boro Bazar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 484,
+      "name": "Boro Khalpar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 485,
+      "name": "Bosu Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 486,
+      "name": "Boyra",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 487,
+      "name": "BSCIC Industrial Area",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 488,
+      "name": "C&B Colony",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 489,
+      "name": "Choto Boyra",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 490,
+      "name": "Choto Khalpar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 491,
+      "name": "Banorgati Christian Colony",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 492,
+      "name": "Daroga Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 493,
+      "name": "Daspara",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 494,
+      "name": "Daulatpur",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 495,
+      "name": "Dharma Shava",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 496,
+      "name": "District Court",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 497,
+      "name": "Dokkhin Pabla",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 498,
+      "name": "Farazi Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 499,
+      "name": "Feri Ghat",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 500,
+      "name": "Fulbari Gate",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 501,
+      "name": "Gaikur",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 502,
+      "name": "Goborchaka",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 503,
+      "name": "Gollamari",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 504,
+      "name": "Golokdham",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 505,
+      "name": "Harinatala",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 506,
+      "name": "Helatala",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 507,
+      "name": "Hogladanga Bahsbaria",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 508,
+      "name": "Horintana",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 509,
+      "name": "Iqbal Nagar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 510,
+      "name": "Islambag",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 511,
+      "name": "Jhardhanga",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 512,
+      "name": "Jinnah Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 513,
+      "name": "Jora Gate",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 514,
+      "name": "Jorakol Bazar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 515,
+      "name": "K.D. Ghos Road",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 516,
+      "name": "Kalibari",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 517,
+      "name": "Kartik Kul",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 518,
+      "name": "KDA Avenue",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 519,
+      "name": "Khalishpur",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 520,
+      "name": "Khalishpur Bihari Colony",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 521,
+      "name": "Khan Jahan Ali Road",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 522,
+      "name": "Kholabaria",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 523,
+      "name": "Khulna Cantonment",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 524,
+      "name": "Khulna Medical Area",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 525,
+      "name": "Khulna University Area",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 526,
+      "name": "KMP Police Line",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 527,
+      "name": "Krishna Nagar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 528,
+      "name": "KUET Area",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 529,
+      "name": "Labonchora",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 530,
+      "name": "Maheswarpasa",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 531,
+      "name": "Mathabhanga",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 532,
+      "name": "Mia Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 533,
+      "name": "Mirerdanga",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 534,
+      "name": "Mohammad Nagar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 535,
+      "name": "Munshi Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 536,
+      "name": "Nabinagar",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 537,
+      "name": "Navi Gate",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 538,
+      "name": "Nazir Ghat",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 539,
+      "name": "Nirala Residential Area",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 540,
+      "name": "Akbar Polli",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 541,
+      "name": "Notun Rasta",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 542,
+      "name": "Pabla",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 543,
+      "name": "Paramanik Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 544,
+      "name": "Poi Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 545,
+      "name": "Poly Technical Area",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 546,
+      "name": "Rail Station Lake",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 547,
+      "name": "Rasul Bag",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 548,
+      "name": "Rayer Mahal",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 549,
+      "name": "Religate",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 550,
+      "name": "Sanchibunia",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 551,
+      "name": "Sarkar Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 552,
+      "name": "Sheikh Para",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 553,
+      "name": "Shib Bari More",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 554,
+      "name": "Shiromoni",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 555,
+      "name": "Sonadanga",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 556,
+      "name": "Sonadanga Moylapota",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 557,
+      "name": "SOS Shishu Polli",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 558,
+      "name": "Taltola",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 559,
+      "name": "Taltola Road",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 560,
+      "name": "Teligati",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 561,
+      "name": "Textile Mill",
+      "city_id": 5,
+      "city": "Khulna"
+    },
+    {
+      "id": 562,
+      "name": "Uttor Pabla",
+      "city_id": 5,
+      "city": "Khulna"
+    }
+  ],
+  "Sylhet": [
+    {
+      "id": 564,
+      "name": "Alampur",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 565,
+      "name": "Ambarkhana",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 566,
+      "name": "Badamura",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 567,
+      "name": "Baghbari",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 568,
+      "name": "Baluchor",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 569,
+      "name": "Bandar Bazar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 570,
+      "name": "Bankalapara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 571,
+      "name": "Barudkhana",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 572,
+      "name": "BGB Camp",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 573,
+      "name": "Bhangatikar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 574,
+      "name": "Bhatalia",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 563,
+      "name": "Akhalia Bazar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 575,
+      "name": "Bilpar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 576,
+      "name": "Cantonment",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 577,
+      "name": "Chalibandar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 578,
+      "name": "Chandmari Tila",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 579,
+      "name": "Chowhatta Point",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 580,
+      "name": "Chowkidekhi",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 581,
+      "name": "Daptari Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 582,
+      "name": "Dariapara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 583,
+      "name": "Daudpur",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 584,
+      "name": "Dorshon Dewri",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 585,
+      "name": "Goaitola",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 586,
+      "name": "Golapbag",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 587,
+      "name": "Hazart Shajalal Mazar Sharif",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 588,
+      "name": "Hazrat Shah Paran Mazar Sharif",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 589,
+      "name": "Housing Estate",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 590,
+      "name": "Jail Road",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 591,
+      "name": "Jalalabad",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 592,
+      "name": "Jatarpur",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 593,
+      "name": "Jharjhari Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 594,
+      "name": "Kadamtoli",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 595,
+      "name": "Kanishail",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 596,
+      "name": "Karpara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 597,
+      "name": "Kazi Tula",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 598,
+      "name": "Keya Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 599,
+      "name": "Khasdobir",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 600,
+      "name": "Khuliapara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 601,
+      "name": "Khuliatula",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 602,
+      "name": "Kolapara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 603,
+      "name": "Kotwali",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 604,
+      "name": "Kumar Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 605,
+      "name": "Lakri Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 606,
+      "name": "Lama Bazar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 607,
+      "name": "Lamapara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 608,
+      "name": "Machimpur",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 609,
+      "name": "Majumder Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 610,
+      "name": "Medical Road",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 611,
+      "name": "Mira Bazar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 612,
+      "name": "Mira Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 613,
+      "name": "Mirer Moydan",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 614,
+      "name": "Mollapara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 615,
+      "name": "Munshi Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 616,
+      "name": "Naiorpul",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 617,
+      "name": "Nayapara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 618,
+      "name": "Nayasarak",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 619,
+      "name": "Nowab Road",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 620,
+      "name": "Pathantula",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 621,
+      "name": "Payra",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 622,
+      "name": "Police Line",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 623,
+      "name": "Raynagar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 624,
+      "name": "Rikabi Bazar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 625,
+      "name": "Sadar Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 626,
+      "name": "Sadipara",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 627,
+      "name": "Saodagar Tola",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 628,
+      "name": "Shagor Dighir Par",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 629,
+      "name": "Shahi Eidgah",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 630,
+      "name": "Shahjalal Upashahar A Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 631,
+      "name": "Shahjalal Upashahar B Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 632,
+      "name": "Shahjalal Upashahar C Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 633,
+      "name": "Shahjalal Upashahar D Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 634,
+      "name": "Shahjalal Upashahar E Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 635,
+      "name": "Shahjalal Upashahar F Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 636,
+      "name": "Shahjalal Upashahar G Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 637,
+      "name": "Shahjalal Upashahar H Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 638,
+      "name": "Shahjalal Upashahar I Block",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 639,
+      "name": "Shamimabad",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 640,
+      "name": "Sheikh para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 641,
+      "name": "Sheikhghat",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 642,
+      "name": "Shibgonj",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 643,
+      "name": "Subhani Ghat",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 644,
+      "name": "Subid Bazar",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 645,
+      "name": "SUST Area",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 646,
+      "name": "Teli Para",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 647,
+      "name": "Telihaor",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 648,
+      "name": "Tilagor",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 649,
+      "name": "Uposhohor",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 650,
+      "name": "West Ghasitula",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 651,
+      "name": "Western Pir",
+      "city_id": 6,
+      "city": "Sylhet"
+    },
+    {
+      "id": 652,
+      "name": "Zindabazar Point",
+      "city_id": 6,
+      "city": "Sylhet"
+    }
+  ],
+  "Rajshahi": [
+    {
+      "id": 655,
+      "name": "Ashrayan Project",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 656,
+      "name": "Baharampur",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 657,
+      "name": "Basuri",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 658,
+      "name": "Binodpur",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 659,
+      "name": "Bornali Mor",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 660,
+      "name": "Boro Bongram",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 661,
+      "name": "Bosepara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 662,
+      "name": "Budhpara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 663,
+      "name": "Bullanpara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 653,
+      "name": "Aam Chattar",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 664,
+      "name": "Choto Bongram",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 665,
+      "name": "Chowddopai",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 666,
+      "name": "Court Station",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 667,
+      "name": "Daharampur",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 668,
+      "name": "Dashmari",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 669,
+      "name": "Dorga Para",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 670,
+      "name": "Haragram",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 654,
+      "name": "Aambagan",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 671,
+      "name": "Hazrapukur",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 672,
+      "name": "Horogram",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 673,
+      "name": "Horogram Notunpara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 674,
+      "name": "Kadirganj",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 675,
+      "name": "Katakhali",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 676,
+      "name": "Kathalbaria",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 677,
+      "name": "Kazla",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 678,
+      "name": "Khojapur",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 679,
+      "name": "Luxmipur Mor",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 680,
+      "name": "Meher Chandi",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 681,
+      "name": "Methor Para",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 682,
+      "name": "Mirer Tek",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 683,
+      "name": "Mollapara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 684,
+      "name": "Munshipara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 685,
+      "name": "Nagar Para",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 686,
+      "name": "Nowdapara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 687,
+      "name": "Padma Residential Area",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 688,
+      "name": "Raj Para",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 689,
+      "name": "Rajshahi University Area",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 690,
+      "name": "Rani Bazar",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 691,
+      "name": "Raypara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 692,
+      "name": "RUET Area",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 693,
+      "name": "Sadhur Mor",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 694,
+      "name": "Sagarpara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 695,
+      "name": "Salbagan",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 696,
+      "name": "Shah Makhdum",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 697,
+      "name": "Shaheb Bazar",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 698,
+      "name": "Sheikpara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 699,
+      "name": "Shilinda",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 700,
+      "name": "Shiroil Colony",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 701,
+      "name": "Sopura",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 702,
+      "name": "Sultanabad",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 703,
+      "name": "Terakhadia",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 704,
+      "name": "Thakurpara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 705,
+      "name": "Tikapara",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 706,
+      "name": "Uposhohor",
+      "city_id": 7,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 707,
+      "name": "Vata Para",
+      "city_id": 7,
+      "city": "Rajshahi"
+    }
+  ],
+  "Cumilla": [
+    {
+      "id": 709,
+      "name": "Ashok Tala",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 710,
+      "name": "Badur Tola",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 711,
+      "name": "Bagan Bari",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 712,
+      "name": "Bagichagaon",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 713,
+      "name": "Baropara",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 714,
+      "name": "Biswa Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 715,
+      "name": "BSCIC",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 716,
+      "name": "Chowk bazar",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 708,
+      "name": "Amtoli",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 717,
+      "name": "Comilla Export Processing Zone",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 718,
+      "name": "Court Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 719,
+      "name": "Cumilla Cantonment",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 720,
+      "name": "Daulatpur",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 721,
+      "name": "DC Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 722,
+      "name": "Dhanmondi Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 723,
+      "name": "Dharmapur",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 724,
+      "name": "Dharmasagar Lake",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 725,
+      "name": "Dhulipara",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 726,
+      "name": "Digumbaritala",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 727,
+      "name": "Gobindapur",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 728,
+      "name": "Housing Estate",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 729,
+      "name": "Jangalia",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 730,
+      "name": "Jhakuni Para",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 731,
+      "name": "Jhautola",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 732,
+      "name": "Kaliajuri",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 733,
+      "name": "Kandirpar",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 734,
+      "name": "Kaptan Bazar",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 735,
+      "name": "Kotbari",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 736,
+      "name": "Kuchaituli",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 737,
+      "name": "Laksham Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 738,
+      "name": "Madina Masjid",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 739,
+      "name": "Manoharpur",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 740,
+      "name": "Mughal Toli",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 741,
+      "name": "Munsef Bari",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 742,
+      "name": "Nanua Dighir Par",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 743,
+      "name": "New Market",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 744,
+      "name": "North Chartha",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 745,
+      "name": "Nurpur",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 746,
+      "name": "Police Line",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 747,
+      "name": "Prince Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 748,
+      "name": "Race Course",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 749,
+      "name": "Rajgonj",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 750,
+      "name": "Ramghatla",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 751,
+      "name": "Ranir Bazar Housing",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 752,
+      "name": "Ranir Dighir Par",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 753,
+      "name": "Second Muradpur",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 754,
+      "name": "Shaktola",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 755,
+      "name": "Shashongachha",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 756,
+      "name": "Shatora",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 757,
+      "name": "South Chartha",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 758,
+      "name": "Stadium Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 759,
+      "name": "Station Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 760,
+      "name": "Sujanagar",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 761,
+      "name": "Talpukur Par",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 762,
+      "name": "Thakur Para",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 763,
+      "name": "Tomsom Bridge",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 764,
+      "name": "Town Hall",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 765,
+      "name": "Ujir Dighirpar",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 766,
+      "name": "Victoria College Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 767,
+      "name": "Wapda Colony",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 768,
+      "name": "Women's College Road",
+      "city_id": 8,
+      "city": "Cumilla"
+    },
+    {
+      "id": 769,
+      "name": "Young Football Academy",
+      "city_id": 8,
+      "city": "Cumilla"
+    }
+  ],
+  "Rangpur": [
+    {
+      "id": 771,
+      "name": "Alamnagar",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 772,
+      "name": "Babu Khan",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 773,
+      "name": "Begum Rokeya University Area",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 774,
+      "name": "Bothla Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 770,
+      "name": "Adarsha Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 775,
+      "name": "C.O Bazar",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 776,
+      "name": "Cantonment",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 777,
+      "name": "Chawak Bazar",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 778,
+      "name": "Chickli Park",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 779,
+      "name": "Cicular Road",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 780,
+      "name": "College Road",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 781,
+      "name": "Dewantuli",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 782,
+      "name": "Dhap",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 783,
+      "name": "Farm Road",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 784,
+      "name": "G L Roy Road",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 785,
+      "name": "Goneshpur",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 786,
+      "name": "Gunjon More",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 787,
+      "name": "Gupta Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 788,
+      "name": "Gurati Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 789,
+      "name": "Haji Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 790,
+      "name": "Haragach",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 791,
+      "name": "Honuman Tola",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 792,
+      "name": "Indira Moor",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 793,
+      "name": "Jolkar Moar",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 794,
+      "name": "Jumma Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 795,
+      "name": "Kamal Kachna",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 796,
+      "name": "Kamar Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 797,
+      "name": "Kerani Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 798,
+      "name": "Khorda",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 799,
+      "name": "Khotkhotia",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 800,
+      "name": "Koshaituli Road",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 801,
+      "name": "Kotki Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 802,
+      "name": "Kutir Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 803,
+      "name": "Lalbag",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 804,
+      "name": "Master Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 805,
+      "name": "Mulatol",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 806,
+      "name": "Munshi Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 807,
+      "name": "New Adarsha Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 808,
+      "name": "New Engineer Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 809,
+      "name": "Nilkantho",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 810,
+      "name": "Pakar Matha Road",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 811,
+      "name": "Pandar Dighi",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 812,
+      "name": "Pasari Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 813,
+      "name": "Pashuram",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 814,
+      "name": "Patbari",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 815,
+      "name": "Pirgachha",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 816,
+      "name": "Rahmat Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 817,
+      "name": "Sardar Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 818,
+      "name": "Sen Para",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 819,
+      "name": "Silmon Road",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 820,
+      "name": "Tajhat Road",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 821,
+      "name": "Tatipara",
+      "city_id": 9,
+      "city": "Rangpur"
+    },
+    {
+      "id": 822,
+      "name": "Tin Matha",
+      "city_id": 9,
+      "city": "Rangpur"
+    }
+  ],
+  "Barishal": [
+    {
+      "id": 825,
+      "name": "Amtolar Mor",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 826,
+      "name": "B.M College Masjid Gate",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 827,
+      "name": "Baklar Mor",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 828,
+      "name": "Bells Park",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 829,
+      "name": "Bazar Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 830,
+      "name": "Beltola Bazar",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 831,
+      "name": "Bibir Pukur Par",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 832,
+      "name": "Bogura Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 833,
+      "name": "Bot Tola",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 834,
+      "name": "Brown Compound",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 835,
+      "name": "Chandmari",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 836,
+      "name": "Choumatha Lake",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 823,
+      "name": "30 Godown",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 837,
+      "name": "Chowk Bazar",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 838,
+      "name": "College Avenue",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 839,
+      "name": "Feri Ghat",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 840,
+      "name": "Folpotti Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 824,
+      "name": "Amanotgonj",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 841,
+      "name": "Gorosthan Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 842,
+      "name": "Hospital Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 843,
+      "name": "Ice Cream Factory Goli",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 844,
+      "name": "Jail Gate",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 845,
+      "name": "Jordan Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 846,
+      "name": "Kalijira Bazar",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 847,
+      "name": "Kashipur",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 848,
+      "name": "Kawnia",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 849,
+      "name": "Launch Ghat",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 850,
+      "name": "Mohabaj",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 851,
+      "name": "Muktijoddha Park",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 852,
+      "name": "Natullabad",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 853,
+      "name": "Natun Bazar",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 854,
+      "name": "Oxford Mission Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 855,
+      "name": "Palashpur",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 856,
+      "name": "Police Line",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 857,
+      "name": "Port Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 858,
+      "name": "Chor Goli",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 859,
+      "name": "Rupatoli",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 860,
+      "name": "Rupatoli Housing",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 861,
+      "name": "Sadar Road",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 862,
+      "name": "Sagordi",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 863,
+      "name": "Shadhur Bat Tola",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 864,
+      "name": "Shoshan Ghat",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 865,
+      "name": "Sitla Khola",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 866,
+      "name": "Sreenath Chatterjee Lane",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 867,
+      "name": "Taltoli Bridge",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 868,
+      "name": "Vatikhana",
+      "city_id": 10,
+      "city": "Barishal"
+    },
+    {
+      "id": 869,
+      "name": "Zero Point",
+      "city_id": 10,
+      "city": "Barishal"
+    }
+  ],
+  "Mymensingh": [
+    {
+      "id": 871,
+      "name": "Akua",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 872,
+      "name": "Alia Madrasa Road",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 873,
+      "name": "Amlapara",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 874,
+      "name": "Baghmara",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 875,
+      "name": "BAU Area",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 876,
+      "name": "Biddamoye School Area",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 877,
+      "name": "Boro Bazar",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 878,
+      "name": "Boundary Road",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 879,
+      "name": "Bramopolli",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 880,
+      "name": "Bypass More",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 881,
+      "name": "Cantonment",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 882,
+      "name": "Chamra Godam",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 883,
+      "name": "Choto Bazar",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 870,
+      "name": "Ahammadabad",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 884,
+      "name": "Dhopakhola",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 885,
+      "name": "Durgabari",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 886,
+      "name": "Fulpur",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 887,
+      "name": "Ganginapar",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 888,
+      "name": "Golapjan Road",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 889,
+      "name": "Joynul Abedin Park",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 890,
+      "name": "Jubilee Road",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 891,
+      "name": "Kachari",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 892,
+      "name": "Kachi Jhuli Mor",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 893,
+      "name": "Kali Bari",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 894,
+      "name": "Kestopur",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 895,
+      "name": "Kewatkhali",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 896,
+      "name": "Lichu Bagan",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 897,
+      "name": "Maskanda",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 898,
+      "name": "Mintu College Area",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 899,
+      "name": "Nahar Road",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 900,
+      "name": "Natok Ghor Lane",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 901,
+      "name": "Natun Bazar",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 902,
+      "name": "Naumahal",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 903,
+      "name": "Pat Godam",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 904,
+      "name": "Pocha Pukur Par",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 905,
+      "name": "Police Line",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 906,
+      "name": "Pondit Para",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 907,
+      "name": "Rail er Mor",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 908,
+      "name": "Sankipara",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 909,
+      "name": "Shehora",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 910,
+      "name": "Shema Choron Rai Road",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 911,
+      "name": "Shomvogonj",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 912,
+      "name": "Stadium Area",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 913,
+      "name": "Station Road",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 914,
+      "name": "Taltola",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 915,
+      "name": "Town Hall Mor",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 916,
+      "name": "Trishal Bus Stand",
+      "city_id": 11,
+      "city": "Mymensingh"
+    },
+    {
+      "id": 917,
+      "name": "Zilla More",
+      "city_id": 11,
+      "city": "Mymensingh"
+    }
+  ],
+  "Savar": [
+    {
+      "id": 973,
+      "name": "Hemayetpur",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 972,
+      "name": "Akran Bazar",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 966,
+      "name": "Shimul Tola",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 919,
+      "name": "20 Mile",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 920,
+      "name": "Anondopur",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 921,
+      "name": "Ashuliya",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 922,
+      "name": "Baipal",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 923,
+      "name": "Bank Colony",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 924,
+      "name": "Bank Town",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 918,
+      "name": "Thana Road",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 925,
+      "name": "Bazar Road",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 926,
+      "name": "BEPZA",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 927,
+      "name": "Birulia Road",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 928,
+      "name": "C R P Road",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 929,
+      "name": "Cantonment",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 930,
+      "name": "Dendabor",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 931,
+      "name": "DEPZ",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 932,
+      "name": "Dhamrai",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 933,
+      "name": "East Bank Town",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 934,
+      "name": "Genda Bazar",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 935,
+      "name": "Jahangirnagar University Area",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 936,
+      "name": "Jamgora",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 937,
+      "name": "Kolma",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 938,
+      "name": "Majidpur",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 939,
+      "name": "Mousumi Market",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 940,
+      "name": "Nayarhat",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 941,
+      "name": "Nobinagar",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 942,
+      "name": "Norosinhopur",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 943,
+      "name": "Palli Bidyut",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 944,
+      "name": "Radio Colony",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 945,
+      "name": "Savar Bus Stand",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 946,
+      "name": "Savar DOHS",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 947,
+      "name": "Sobhanbag",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 948,
+      "name": "Wapda Road",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 949,
+      "name": "West Bank Town",
+      "city_id": 12,
+      "city": "Savar"
+    },
+    {
+      "id": 950,
+      "name": "Zirabo",
+      "city_id": 12,
+      "city": "Savar"
+    }
+  ]
+}

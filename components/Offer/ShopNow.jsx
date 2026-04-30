@@ -26,7 +26,7 @@ const ShopNow = ({ content }) => {
                 <p>
                     {content?.description}
                 </p>
-                {content?.buttonText && content?.buttonHref && (<div className={styles.btn}>
+                {content?.buttonText && content?.buttonHref && (<div className={styles.btn} onClick = {() => router.push("/hire")}>
                     {content.buttonText}
                 </div>
                 )}

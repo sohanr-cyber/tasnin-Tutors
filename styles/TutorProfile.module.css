@@ -1,0 +1,196 @@
+.wrapper {}
+
+/* HEADER */
+.header {
+    background: linear-gradient(135deg, #2c1c74, #4b36b0);
+    height: 150px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.book {
+    font-size: 22px;
+}
+
+.menu {
+    font-size: 22px;
+}
+
+/* CONTAINER */
+.container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin-top: -70px;
+}
+
+/* LEFT RIGHT */
+.left,
+.right {
+    flex: 1;
+}
+
+/* PROFILE */
+.profileCard {
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.avatar {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 5px solid #5b3fc4;
+    background: #ddd;
+    margin: -80px auto 10px;
+}
+
+.profileCard h2 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.tagline {
+    font-size: 13px;
+    color: #6b7280;
+    margin-bottom: 10px;
+}
+
+/* CONTACT */
+.contact {
+    background: #f9fafc;
+    padding: 12px;
+    border-radius: 12px;
+    text-align: left;
+}
+
+.contact .item {
+    display: flex;
+    margin: 6px 0;
+    /* font-size: 14px; */
+    align-items: center;
+    gap: 35px;
+}
+
+.contact .item .key {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    min-width: 120px;
+
+}
+
+
+
+/* CARD */
+.card {
+    background: white;
+    padding: 16px;
+    border-radius: 16px;
+    margin-bottom: 18px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.04);
+}
+
+.card h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+/* EDUCATION GRID */
+.eduGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.eduGrid div {
+    background: #f3f5ff;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.eduGrid p {
+    font-size: 11px;
+}
+
+.eduGrid strong {
+    font-size: 13px;
+}
+
+/* COLOR THEMES */
+.ssc {
+    background: #edf9f1;
+}
+
+.hsc {
+    background: #f3f0ff;
+}
+
+.exp {
+    background: #fff4ec;
+}
+
+.notes {
+    background: #ecfbf9;
+}
+
+/* LIST */
+.container ul {
+    padding-left: 16px;
+}
+
+.container ul li {
+    margin: 6px 0;
+    font-size: 14px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.container ul li .key {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 125px
+}
+
+/* FOOTER */
+.footer {
+    background: #3b2a8f;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    margin: 20px;
+    border-radius: 14px;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .avatar {
+        margin-top: -70px;
+    }
+}
