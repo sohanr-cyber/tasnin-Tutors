@@ -10,33 +10,69 @@ const handler = nextConnect()
 const PAGE_SIZE = 20
 
 handler.use(isAuth, isAdmin)
+
+const maskPhone = (phone) => {
+    if (!phone) return null;
+    return phone.slice(0, 5) + "****" + phone.slice(-2);
+};
+
+const maskWhatsApp = (whatsapp) => {
+    if (!whatsapp) return null;
+    return whatsapp.slice(0, 5) + "****" + whatsapp.slice(-2);
+};
+
+const maskFacebook = (fb) => {
+    if (!fb) return null;
+
+    // if full URL → show only base + stars
+    try {
+        const url = new URL(fb);
+        return `${url.origin}/****`;
+    } catch {
+        return "facebook.com/****";
+    }
+};
+
 handler.get(async (req, res) => {
-  try {
-    await db.connect()
-    // Get the page number from the query parameters, default to 1
-    const page = parseInt(req.query.page) || 1
+    try {
+        await db.connect();
 
-    // Calculate the skip value based on the page number and page size
-    const skip = (page - 1) * PAGE_SIZE
-    // Retrieve total count of products
-    const totalCount = await Coupon.countDocuments()
+        const { id } = req.query;
 
-    // Calculate total pages
-    const totalPages = Math.ceil(totalCount / PAGE_SIZE)
+        const tutor = await Tutor.findById(id).lean();
 
-    // Retrieve products with pagination and sorting
-    const coupons = await Coupon.find()
-      .sort({ createdAt: -1 })
-      .skip(skip)
-      .limit(PAGE_SIZE)
-    await db.disconnect()
-    res.json({ page, coupons, totalPages })
-  } catch (error) {
-    console.log({ error })
-    res.status(500).json({ message: 'Server Error' })
-  }
-})
+        if (!tutor) {
+            return res.status(404).json({
+                success: false,
+                message: "Tutor not found",
+            });
+        }
 
+        // =========================
+        // MASKED PUBLIC VIEW
+        // =========================
+        const safeTutor = {
+            ...tutor,
+
+            phone: maskPhone(tutor.phone),
+            whatsapp: maskWhatsApp(tutor.whatsapp),
+            facebook: maskFacebook(tutor.facebook),
+        };
+
+        return res.status(200).json({
+            success: true,
+            data: safeTutor,
+        });
+
+    } catch (error) {
+        console.error(error);
+
+        return res.status(500).json({
+            success: false,
+            message: "Failed to fetch tutor",
+        });
+    }
+});
 handler.post(async (req, res) => {
   try {
     await db.connect()

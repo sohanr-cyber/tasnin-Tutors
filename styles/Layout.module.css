@@ -10,6 +10,19 @@
     display: none;
 }
 
+.footer {
+    background: #3b2a8f;
+    color: white;
+    text-align: center;
+    margin: 25px;
+    padding: 15px;
+    ;
+    margin-top: 0;
+    border-radius: 5px;
+
+}
+
+
 @media (max-width:1024px) {
     .nav1 {
         display: none;
@@ -32,5 +45,15 @@
 
     .nav3 {
         display: block;
+    }
+
+    .footer {
+        margin: 15px;
+    }
+}
+
+@media (max-width:410px) {
+    .footer {
+        margin:10px
     }
 }

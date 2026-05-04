@@ -85,6 +85,10 @@ const Layout = ({ children }) => {
           <AdminNavbar />
         )}
         {children}
+
+        <div className={styles.footer}>
+          ❤️ আপনার সন্তানের উজ্জ্বল ভবিষ্যতের জন্য আমরা আছি আপনার পাশে ❤️
+        </div>
         <Footer />
         {/* <BottomFooter /> */}
         {!containsAdmin(router.asPath) && <WhatsAppButton includeLocation={true} />

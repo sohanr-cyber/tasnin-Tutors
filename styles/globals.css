@@ -7,7 +7,7 @@
   --background: linear-gradient(45deg, rgba(0, 132, 255, 0.5), rgb(0, 204, 255, 0.5), rgba(7, 143, 255, 0.2), white, rgba(0, 140, 255, 0.4));
   --nav: linear-gradient(90deg, rgb(202, 207, 233), white, rgb(203, 224, 231), white);
   --cardBg: rgb(235, 242, 255);
-  --buttonBg: rgb(0, 60, 255);
+  --buttonBg:#3b2a8f;
   --buttonC: white;
   --borderColor: #99a09e;
   --inputField: linear-gradient(245deg, rgba(255, 255, 255), rgba(255, 255, 255));

@@ -34,7 +34,7 @@
 .container {
     display: flex;
     gap: 20px;
-    padding: 20px;
+    padding: 25px;
     margin-top: -70px;
 }
 
@@ -62,6 +62,7 @@
     border: 5px solid #5b3fc4;
     background: #ddd;
     margin: -80px auto 10px;
+    overflow: hidden;
 }
 
 .profileCard h2 {
@@ -108,11 +109,22 @@
     border-radius: 16px;
     margin-bottom: 18px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.04);
+    overflow: hidden;
 }
 
 .card h3 {
     font-size: 15px;
     margin-bottom: 10px;
+    /* border-bottom: 1px solid var(--borderColor); */
+    padding: 10px;
+    ;
+    padding-left: 25px;
+    ;
+    margin-top: -17px;
+    background: rgb(0, 0, 212, 0.1);
+    width: 130%;
+    margin-left: -20px;
+
 }
 
 /* EDUCATION GRID */
@@ -123,10 +135,27 @@
 }
 
 .eduGrid div {
-    background: #f3f5ff;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+}
+
+.eduGrid .item {
+    display: flex;
+    /* flex-direction: column; */
+    gap: 4px;
+    align-items: center;
+
+}
+
+.eduGrid .item .val {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.eduGrid .item .icon {
+    transform: scale(1.5);
 }
 
 .eduGrid p {
@@ -165,6 +194,8 @@
     display: flex;
     gap: 10px;
     align-items: center;
+    border-bottom: 1px dotted rgb(201, 201, 201);
+
 }
 
 .container ul li .key {
@@ -174,15 +205,23 @@
     min-width: 125px
 }
 
-/* FOOTER */
-.footer {
-    background: #3b2a8f;
-    color: white;
-    text-align: center;
-    padding: 14px;
-    margin: 20px;
-    border-radius: 14px;
+
+.idCardWrapper {
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
 }
+
+.idCardImg {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    object-fit: cover;
+}
+
+
 
 /* MOBILE */
 @media (max-width: 768px) {
@@ -193,4 +232,74 @@
     .avatar {
         margin-top: -70px;
     }
+}
+
+@media (max-width:480px) {
+    .container {
+        padding: 15px;
+        gap: 0px;
+    }
+
+    /* EDUCATION GRID */
+    .eduGrid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+
+    .eduGrid .item {
+        display: flex;
+        border-bottom: 1px dotted rgb(201, 201, 201);
+        border-radius: 0;
+    }
+
+    .card {
+        padding: 15px 10px;
+    }
+
+
+
+    .card ul {
+        padding-left: 10px;
+    }
+
+    .card ul .item {
+        align-items: flex-start;
+    }
+}
+
+
+@media (max-width:480px) {
+    .container {
+        padding: 10px;
+        gap: 0px;
+    }
+
+    /* EDUCATION GRID */
+    .eduGrid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+
+    .eduGrid .item {
+        display: flex;
+        padding: 5px 0;
+        background-color: transparent;
+    }
+
+    .card {
+        padding: 15px 10px;
+    }
+
+
+
+    .card ul {
+        padding-left: 10px;
+    }
+
+    .card ul .item {
+        align-items: flex-start;
+    }
+   
 }

@@ -17,8 +17,10 @@ import CalendarTodayIcon from '@mui/icons-material/CalendarToday';
 import InfoIcon from '@mui/icons-material/Info';
 import WorkIcon from '@mui/icons-material/Work';
 import BadgeIcon from '@mui/icons-material/Badge';
+import axios from "axios";
+import BASE_URL from "@/config";
 
-export default function Tutors() {
+export default function TutorProfile({ tutor }) {
     return (
         <div className={styles.wrapper}>
 
@@ -37,16 +39,15 @@ export default function Tutors() {
                     <div className={styles.profileCard}>
                         <div className={styles.avatar}></div>
 
-                        <h2>MD. RAKIB HOSSAIN</h2>
-                        <p className={styles.tagline}>শিক্ষাদানই আমার অগ্রাধিকার</p>
-
+                        <h2>{tutor.fullName}</h2>
+                        <p className={styles.tagline}>{tutor.tagline}</p>
                         <div className={styles.contact}>
                             <div className={styles.item}>
                                 <div className={styles.key}>
                                     <span style={{ color: "#2f6fed" }}><CallIcon /></span>
                                     <span>Phone</span>
                                 </div>
-                                01712-345678
+                                {tutor.phone}
                             </div>
 
                             <div className={styles.item}>
@@ -54,7 +55,7 @@ export default function Tutors() {
                                     <span style={{ color: "#25D366" }}><WhatsAppIcon /></span>
                                     <span>WhatsApp</span>
                                 </div>
-                                01712-345678
+                                {tutor.whatsapp}
                             </div>
 
                             <div className={styles.item}>
@@ -62,7 +63,7 @@ export default function Tutors() {
                                     <span style={{ color: "#1877F2" }}><FacebookIcon /></span>
                                     <span>Facebook</span>
                                 </div>
-                                facebook.com/rakib.hossain
+                                {tutor.facebook}
                             </div>
 
                             <div className={styles.item}>
@@ -70,14 +71,14 @@ export default function Tutors() {
                                     <span style={{ color: "#E1306C" }}><LocationOnIcon /></span>
                                     <span>Location</span>
                                 </div>
-                                Dhanmondi, Dhaka
+                                {tutor.location?.area}, {tutor.location?.city}
                             </div>
                         </div>
                     </div>
 
                     {/* CURRENT EDUCATION */}
                     <div className={styles.card}>
-                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(59, 103, 173, 0.12)",  }}>
+                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(59, 103, 173, 0.12)" }}>
                             <SchoolIcon style={{ fontSize: 26, color: "#3b67ad" }} />
                             বর্তমান শিক্ষাগত তথ্য
                         </h3>
@@ -87,37 +88,43 @@ export default function Tutors() {
                             <div className={styles.item}>
                                 <div className={styles.key}>
                                     <span style={{ color: "#3b67ad" }}>
-                                        <SchoolIcon style={{ fontSize: 26 }} />
+                                        <SchoolIcon style={{ fontSize: 35 }} />
                                     </span>
+                                </div>
+                                <div className={styles.val}>
                                     <span style={{ color: "#3b67ad", fontWeight: 500 }}>
                                         Current Institution
                                     </span>
+                                    <strong>{tutor.currentInstitution}</strong>
                                 </div>
-                                <strong>University of Dhaka</strong>
                             </div>
 
                             <div className={styles.item}>
                                 <div className={styles.key}>
                                     <span style={{ color: "#ff9800" }}>
-                                        <AccountBalanceIcon style={{ fontSize: 26 }} />
+                                        <AccountBalanceIcon style={{ fontSize: 35 }} />
                                     </span>
+                                </div>
+                                <div className={styles.val}>
                                     <span style={{ color: "#ff9800", fontWeight: 500 }}>
                                         Department
                                     </span>
+                                    <strong>{tutor.department}</strong>
                                 </div>
-                                <strong>Mathematics</strong>
                             </div>
 
                             <div className={styles.item}>
                                 <div className={styles.key}>
                                     <span style={{ color: "#4caf50" }}>
-                                        <CalendarTodayIcon style={{ fontSize: 26 }} />
-                                    </span>
-                                    <span style={{ color: "#4caf50", fontWeight: 500 }}>
-                                        Current Year
+                                        <CalendarTodayIcon style={{ fontSize: 35 }} />
                                     </span>
                                 </div>
-                                <strong>3rd Year (Hon's)</strong>
+                                <div className={styles.val}>
+                                    <span style={{ color: "#4caf50", fontWeight: 500 }}>
+                                        Current Year / Semister
+                                    </span>
+                                    <strong>{tutor.currentYear}</strong>
+                                </div>
                             </div>
 
                         </div>
@@ -125,87 +132,64 @@ export default function Tutors() {
 
                     {/* SSC */}
                     <div className={`${styles.card} ${styles.ssc}`}>
-                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(76, 175, 80, 0.12)",  }}>
+                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(76, 175, 80, 0.12)" }}>
                             <MenuBookIcon style={{ fontSize: 26, color: "#4caf50" }} />
                             SSC তথ্য
                         </h3>
 
                         <ul className={styles.list}>
                             <li className={styles.item}>
-                                <div className={styles.key}>
-                                    <span style={{ color: "#3b67ad" }}><SchoolIcon /></span>
-                                    <span>School</span>
-                                </div>
-                                Notre Dame College
+                                <div className={styles.key}><span><SchoolIcon /></span><span>School</span></div>
+                                {tutor.sscSchool}
                             </li>
 
                             <li className={styles.item}>
-                                <div className={styles.key}>
-                                    <span style={{ color: "#ff9800" }}><ScienceIcon /></span>
-                                    <span>Group</span>
-                                </div>
-                                Science
+                                <div className={styles.key}><span><ScienceIcon /></span><span>Group</span></div>
+                                {tutor.sscGroup}
                             </li>
 
                             <li className={styles.item}>
-                                <div className={styles.key}>
-                                    <span style={{ color: "#4caf50" }}><EmojiEventsIcon /></span>
-                                    <span>Result</span>
-                                </div>
-                                GPA 5.00
+                                <div className={styles.key}><span><EmojiEventsIcon /></span><span>Result</span></div>
+                                {tutor.sscResult}
                             </li>
 
                             <li className={styles.item}>
-                                <div className={styles.key}>
-                                    <span style={{ color: "#9c27b0" }}><LanguageIcon /></span>
-                                    <span>Medium</span>
-                                </div>
-                                Bangla
+                                <div className={styles.key}><span><LanguageIcon /></span><span>Medium</span></div>
+                                {tutor.sscMedium}
                             </li>
                         </ul>
                     </div>
 
                     {/* HSC */}
                     <div className={`${styles.card} ${styles.hsc}`}>
-                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(59, 103, 173, 0.12)",  }}>
+                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(59, 103, 173, 0.12)" }}>
                             <SchoolIcon style={{ fontSize: 26, color: "#3b67ad" }} />
                             HSC তথ্য
                         </h3>
 
                         <ul className={styles.list}>
                             <li className={styles.item}>
-                                <div className={styles.key}>
-                                    <span style={{ color: "#3b67ad" }}><SchoolIcon /></span>
-                                    <span>College</span>
-                                </div>
-                                Notre Dame College
+                                <div className={styles.key}><span><SchoolIcon /></span><span>College</span></div>
+                                {tutor.hscCollege}
                             </li>
 
                             <li className={styles.item}>
-                                <div className={styles.key}>
-                                    <span style={{ color: "#ff9800" }}><ScienceIcon /></span>
-                                    <span>Group</span>
-                                </div>
-                                Science
+                                <div className={styles.key}><span><ScienceIcon /></span><span>Group</span></div>
+                                {tutor.hscGroup}
                             </li>
 
                             <li className={styles.item}>
-                                <div className={styles.key}>
-                                    <span style={{ color: "#4caf50" }}><EmojiEventsIcon /></span>
-                                    <span>Result</span>
-                                </div>
-                                GPA 5.00
+                                <div className={styles.key}><span><EmojiEventsIcon /></span><span>Result</span></div>
+                                {tutor.hscResult}
                             </li>
 
                             <li className={styles.item}>
-                                <div className={styles.key}>
-                                    <span style={{ color: "#9c27b0" }}><LanguageIcon /></span>
-                                    <span>Medium</span>
-                                </div>
-                                Bangla
+                                <div className={styles.key}><span><LanguageIcon /></span><span>Medium</span></div>
+                                {tutor.hscMedium}
                             </li>
                         </ul>
                     </div>
+
                 </div>
 
                 {/* RIGHT */}
@@ -213,7 +197,7 @@ export default function Tutors() {
 
                     {/* TUITION INFO */}
                     <div className={styles.card}>
-                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(59, 103, 173, 0.12)",  }}>
+                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(59, 103, 173, 0.12)", }}>
                             <MenuBookIcon style={{ fontSize: 26, color: "#3b67ad" }} />
                             টিউশন সংক্রান্ত তথ্য
                         </h3>
@@ -225,7 +209,7 @@ export default function Tutors() {
                                     <span style={{ color: "#3b67ad" }}><SchoolIcon /></span>
                                     <span>Teach Class</span>
                                 </div>
-                                6 to 10
+                                {tutor.teachClass}
                             </li>
 
                             <li className={styles.item}>
@@ -233,7 +217,7 @@ export default function Tutors() {
                                     <span style={{ color: "#ff9800" }}><MenuBookIcon /></span>
                                     <span>Subjects</span>
                                 </div>
-                                Math, Physics, Chemistry
+                                {tutor.teachSubjects}
                             </li>
 
                             <li className={styles.item}>
@@ -241,7 +225,7 @@ export default function Tutors() {
                                     <span style={{ color: "#9c27b0" }}><LanguageIcon /></span>
                                     <span>Medium</span>
                                 </div>
-                                Bangla
+                                {tutor.preferredMedium}
                             </li>
 
                             <li className={styles.item}>
@@ -249,7 +233,7 @@ export default function Tutors() {
                                     <span style={{ color: "#4caf50" }}><HomeIcon /></span>
                                     <span>Tuition Type</span>
                                 </div>
-                                Home
+                                {tutor.preferredMedium}
                             </li>
 
                             <li className={styles.item}>
@@ -257,7 +241,7 @@ export default function Tutors() {
                                     <span style={{ color: "#e91e63" }}><LocationOnIcon /></span>
                                     <span>Area</span>
                                 </div>
-                                Dhanmondi, Mirpur
+                                {tutor.area}
                             </li>
 
                             <li className={styles.item}>
@@ -265,7 +249,7 @@ export default function Tutors() {
                                     <span style={{ color: "#ff5722" }}><AttachMoneyIcon /></span>
                                     <span>Salary</span>
                                 </div>
-                                8,000 - 10,000 BDT
+                                {tutor.expectedSalary}
                             </li>
 
                             <li className={styles.item}>
@@ -273,7 +257,7 @@ export default function Tutors() {
                                     <span style={{ color: "#2196f3" }}><AccessTimeIcon /></span>
                                     <span>Time</span>
                                 </div>
-                                Evening
+                                {tutor.availableTime}
                             </li>
 
                         </ul>
@@ -281,45 +265,59 @@ export default function Tutors() {
 
                     {/* ID CARD */}
                     <div className={styles.card}>
-                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(0, 150, 136, 0.12)",  }}>
+                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(0, 150, 136, 0.12)" }}>
                             <BadgeIcon style={{ fontSize: 26, color: "#009688" }} />
                             স্টুডেন্ট আইডি কার্ড
                         </h3>
 
                         <div className={styles.idCardWrapper}>
-                            <img
-                                src="/images/id-card.jpg"
-                                alt="Student ID Card"
-                                className={styles.idCardImg}
-                            />
+                            <img src={tutor.studentId} className={styles.idCardImg} />
                         </div>
                     </div>
 
                     {/* EXPERIENCE */}
                     <div className={`${styles.card} ${styles.exp}`}>
-                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(255, 152, 0, 0.12)",  }}>
+                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(255, 152, 0, 0.12)" }}>
                             <WorkIcon style={{ fontSize: 26, color: "#ff9800" }} />
                             অভিজ্ঞতা
                         </h3>
-                        <p>২ বছর টিউশনি করার অভিজ্ঞতা রয়েছে।</p>
+                        <p>{tutor.experience}</p>
                     </div>
 
                     {/* EXTRA INFO */}
                     <div className={`${styles.card} ${styles.notes}`}>
-                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(156, 39, 176, 0.12)",  }}>
+                        <h3 style={{ display: "flex", alignItems: "center", gap: "10px", background: "rgba(156, 39, 176, 0.12)" }}>
                             <InfoIcon style={{ fontSize: 26, color: "#9c27b0" }} />
                             অতিরিক্ত তথ্য
                         </h3>
-                        <p>শিক্ষার্থীদের সাথে বন্ধুত্বপূর্ণ সম্পর্ক রেখে সহজভাবে পড়াই।</p>
+                        <p>{tutor.extraInfo}</p>
                     </div>
 
                 </div>
             </div>
 
-            <div className={styles.footer}>
-                ❤️ আপনার সন্তানের উজ্জ্বল ভবিষ্যতের জন্য আমরা আছি আপনার পাশে ❤️
-            </div>
         </div>
     );
 }
 
+export async function getServerSideProps(context) {
+    const { id } = context.params;
+
+    try {
+        const { data } = await axios(`${BASE_URL}/api/tutor/${id}`);
+        console.log(data)
+
+        if (!data.success) {
+            return { notFound: true };
+        }
+
+        return {
+            props: {
+                tutor: data.data,
+            },
+        };
+
+    } catch (error) {
+        return { notFound: true };
+    }
+}
