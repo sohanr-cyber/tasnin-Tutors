@@ -2,6 +2,10 @@ import mongoose from "mongoose";
 
 const tutorRequestSchema = new mongoose.Schema(
   {
+    code: {
+      type: String,
+      trim: true,
+    },
     guardianName: {
       type: String,
       trim: true,
